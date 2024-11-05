@@ -96,10 +96,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 - Ensure the tool is categorized appropriately. If a new category is needed, please add it in alphabetical order.
 
-### Code of Conduct
-
-Please be respectful and considerate when contributing. We want this to be an inclusive community.
-
 ---
 
 ### Issue Reporting
@@ -112,6 +108,3 @@ To report an issue or suggest a new AI tool, please use the following format:
 - **Category**: Suggested category (if it doesn't exist)
 
 ---
-
-Thank you for your contributions!
-```
