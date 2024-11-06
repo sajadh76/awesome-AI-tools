@@ -4,8 +4,15 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ## Table of Contents
 - [Categories](#categories)
+  - [AI-Powered Writing Tools](#ai-powered-writing-tools)
+  - [Presentation and Design](#presentation-and-design)
+  - [Mathematics and Calculations](#mathematics-and-calculations)
+  - [Research and Citation](#research-and-citation)
+  - [Free eBook Download](#free-ebook-download)
+  - [Summarization and Note-Taking](#summarization-and-note-taking)
 - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [Issue Reporting](#issue-reporting)
+
 
 ## Categories
 
@@ -58,47 +65,7 @@ We welcome contributions from everyone! To maintain quality, please follow these
 
 4. **New Categories**: Feel free to suggest a new category if you believe it doesn’t fit in the existing ones.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-### How to Contribute
-
-1. **Fork the Repository**: Click on the "Fork" button on the top right to create a copy of the repository in your account.
-
-2. **Create a Branch**: Create a new branch for your contribution.
-   ```bash
-   git checkout -b add-new-tool
-   ```
-
-3. **Make Your Changes**: Add your changes to the `README.md` file.
-
-4. **Commit Your Changes**: Use a descriptive commit message.
-   ```bash
-   git commit -m "Added [Tool Name] to [Category]"
-   ```
-
-5. **Push Your Changes**: Push to the branch you created.
-   ```bash
-   git push origin add-new-tool
-   ```
-
-6. **Submit a Pull Request**: Go to the original repository and create a pull request, explaining your changes.
-
-### Formatting
-
-- Each entry should follow this format:
-  ```markdown
-  - **[Tool Name](https://tool-url.com)**: Brief description of the tool.
-  ```
-
-- Ensure the tool is categorized appropriately. If a new category is needed, please add it in alphabetical order.
-
----
-
-### Issue Reporting
+## Issue Reporting
 
 To report an issue or suggest a new AI tool, please use the following format:
 
