@@ -12,6 +12,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Research and Citation](#research-and-citation)
   - [Free eBook Download](#free-ebook-download)
   - [Summarization and Note-Taking](#summarization-and-note-taking)
+  - [Image generation and enhancement](#image-generation-and-enhancement)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
 
@@ -47,6 +48,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
+
+### Image generation and enhancement
+- **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
 ## Contribution Guidelines
 
