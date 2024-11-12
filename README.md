@@ -12,6 +12,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Research and Citation](#research-and-citation)
   - [Free eBook Download](#free-ebook-download)
   - [Summarization and Note-Taking](#summarization-and-note-taking)
+  - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Image generation and enhancement](#image-generation-and-enhancement)
   - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -50,13 +51,13 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
 
-### Image Processing and Computer Vision:
+### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
 
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
-### Speech-to-Text AI models:
+### Speech-to-Text AI models
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### AI for fun
