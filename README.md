@@ -13,6 +13,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Free eBook Download](#free-ebook-download)
   - [Summarization and Note-Taking](#summarization-and-note-taking)
   - [Image generation and enhancement](#image-generation-and-enhancement)
+  - [Speech-to-Text AI models](#speech-to-text-ai-models)
   - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
@@ -53,7 +54,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
-### Speech-to-Text AI models:
+### Speech-to-Text AI models
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### AI for fun
