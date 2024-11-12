@@ -13,6 +13,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Free eBook Download](#free-ebook-download)
   - [Summarization and Note-Taking](#summarization-and-note-taking)
   - [Image generation and enhancement](#image-generation-and-enhancement)
+  - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
 
@@ -52,7 +53,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
-### AI for fun:
+### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: An AI-powered game where you draw something, and the AI tries to guess what it is. It’s super fun and gives you a peek into how image recognition works!
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates realistic images of people who do not exist. It's fascinating and often amusing to see the ultra-realistic yet completely fictional people the AI creates.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**: This project is a virtual drawing canvas that allows you to draw on the screen using hand gestures captured through your webcam.
