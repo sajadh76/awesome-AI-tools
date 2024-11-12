@@ -52,6 +52,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
+### Speech-to-Text AI models:
+- **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
+
 ### AI for fun:
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: An AI-powered game where you draw something, and the AI tries to guess what it is. It’s super fun and gives you a peek into how image recognition works!
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates realistic images of people who do not exist. It's fascinating and often amusing to see the ultra-realistic yet completely fictional people the AI creates.
