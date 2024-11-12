@@ -14,6 +14,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Summarization and Note-Taking](#summarization-and-note-taking)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Image generation and enhancement](#image-generation-and-enhancement)
+  - [Speech-to-Text AI models](#speech-to-text-ai-models)
   - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
