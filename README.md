@@ -56,10 +56,14 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Speech-to-Text AI models:
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
+### Image Processing and Computer Vision:
+- **[Vehicel tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
+
 ### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: An AI-powered game where you draw something, and the AI tries to guess what it is. It’s super fun and gives you a peek into how image recognition works!
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates realistic images of people who do not exist. It's fascinating and often amusing to see the ultra-realistic yet completely fictional people the AI creates.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**: This project is a virtual drawing canvas that allows you to draw on the screen using hand gestures captured through your webcam.
+- **[Hand tracking and Face mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand. Give it a try, it's fun!
 
 ## Contribution Guidelines
 
