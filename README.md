@@ -51,7 +51,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
 
 ### Image Processing and Computer Vision:
-- **[Vehicel tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
+- **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
 
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
