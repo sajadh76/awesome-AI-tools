@@ -12,6 +12,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Research and Citation](#research-and-citation)
   - [Free eBook Download](#free-ebook-download)
   - [Summarization and Note-Taking](#summarization-and-note-taking)
+  - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Image generation and enhancement](#image-generation-and-enhancement)
   - [Speech-to-Text AI models](#speech-to-text-ai-models)
   - [AI for fun](#ai-for-fun)
@@ -51,6 +52,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
 
+### Image Processing and Computer Vision
+- **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
+
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 
@@ -61,6 +65,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: An AI-powered game where you draw something, and the AI tries to guess what it is. It’s super fun and gives you a peek into how image recognition works!
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates realistic images of people who do not exist. It's fascinating and often amusing to see the ultra-realistic yet completely fictional people the AI creates.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**: This project is a virtual drawing canvas that allows you to draw on the screen using hand gestures captured through your webcam.
+- **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand. Give it a try, it's fun!
 
 ## Contribution Guidelines
 
