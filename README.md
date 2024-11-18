@@ -63,8 +63,11 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### Cybersecurity and hacking
-- **[WormGPT]** Blackhat alternative to GPT models, designed specifically for malicious activities.
-- **[PentestGPT](https://pentestgpt.ai/)** provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
+- **WormGPT** Blackhat alternative to GPT models, designed specifically for malicious activities.
+- **[PentestGPT](https://pentestgpt.ai/)** Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
+- **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)** Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
+- **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)** A specialized GPT for the latest APT threat intelligence.
+- **[STRIDE GPT](https://stridegpt.streamlit.app/)** An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 
 ### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: A game where you draw something, and the AI guesses what it is.
