@@ -15,6 +15,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Image generation and enhancement](#image-generation-and-enhancement)
   - [Speech-to-Text AI models](#speech-to-text-ai-models)
+  - [Cybersecurity and hacking](#cybersecurity-and-hacking)
   - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
@@ -60,6 +61,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Speech-to-Text AI models
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
+
+### Cybersecurity and hacking
+- **[WormGPT]** Blackhat alternative to GPT models, designed specifically for malicious activities.
+- **[PentestGPT](https://pentestgpt.ai/)** provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 
 ### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: A game where you draw something, and the AI guesses what it is.
