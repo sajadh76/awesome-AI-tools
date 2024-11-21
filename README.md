@@ -16,6 +16,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Image generation and enhancement](#image-generation-and-enhancement)
   - [Speech-to-Text AI models](#speech-to-text-ai-models)
   - [Cybersecurity and hacking](#cybersecurity-and-hacking)
+  - [Automation](automation)
   - [AI for fun](#ai-for-fun)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
@@ -68,6 +69,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)** Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)** A specialized GPT for the latest APT threat intelligence.
 - **[STRIDE GPT](https://stridegpt.streamlit.app/)** An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
+
+### Automation
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 
 ### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: A game where you draw something, and the AI guesses what it is.
