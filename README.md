@@ -18,6 +18,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Cybersecurity and hacking](#cybersecurity-and-hacking)
   - [Automation](#automation)
   - [AI for fun](#ai-for-fun)
+  - [AI for Finance](#ai-for-Finance)
+  - [AI for Streaming Data Analysis](#ai-for-Streaming-data-analysis)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
 
@@ -78,6 +80,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates ultra-realistic images of people who don’t exist.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**:A virtual drawing canvas that lets you draw on the screen using hand gestures detected by your webcam.
 - **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand.
+
+### AI for Finance
+**[Market direction prediction with Limit Order Book data](https://github.com/rezapaki1376/PB-TABL)**: This repository contains codes for predicting the market direction based on the limit order book data.
 ## Contribution Guidelines
 
 We welcome contributions from everyone! To maintain quality, please follow these guidelines:
