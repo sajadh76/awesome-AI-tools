@@ -83,7 +83,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### AI for Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
-- **[Chaingpt](https://www.chaingpt.org/)**: This tool is an advanced AI model that assists individuals and businesses working on blockchain and cryptocurrency projects
+- **[Chaingpt](https://www.chaingpt.org/)**: This tool is an advanced AI model that assists individuals and businesses working on blockchain and cryptocurrency projects.
 
 ### AI for Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
