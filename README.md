@@ -82,10 +82,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand.
 
 ### AI for Finance
-**[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
+- **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
 
 ### AI for Streaming Data Analysis
-**[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
+- **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
 ## Contribution Guidelines
 
