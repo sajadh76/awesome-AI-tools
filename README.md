@@ -61,6 +61,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Image generation and enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
+- **[AI Image Generator](https://www.aiimagegenerator.org)**: Free AI-powered text-to-image image generator
 
 ### Speech-to-Text AI models
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
