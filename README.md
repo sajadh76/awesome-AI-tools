@@ -52,6 +52,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Open Library](https://openlibrary.org)**: Collection of free eBooks for borrowing and reading.
 
 ### Summarization and Note-Taking
+- **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
