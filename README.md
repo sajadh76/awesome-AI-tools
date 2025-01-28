@@ -11,7 +11,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [Mathematics and Calculations](#mathematics-and-calculations)
   - [Research and Citation](#research-and-citation)
   - [Free eBook Download](#free-ebook-download)
-  - [Summarization and Note-Taking](#summarization-and-note-taking)
+  - [ChatBot, Summarization, and Note-Taking](#chat_bot_and_summarization-and-note-taking)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Image generation and enhancement](#image-generation-and-enhancement)
   - [Speech-to-Text AI models](#speech-to-text-ai-models)
@@ -51,8 +51,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Project Gutenberg](https://www.gutenberg.org)**: Over 70,000 free eBooks available for download.
 - **[Open Library](https://openlibrary.org)**: Collection of free eBooks for borrowing and reading.
 
-### Summarization and Note-Taking
+### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
+- **[DeepSeek](https://www.deepseek.com/)**: Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
