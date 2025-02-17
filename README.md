@@ -20,6 +20,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   - [AI for fun](#ai-for-fun)
   - [AI for Finance](#AI-for-Finance)
   - [AI for Streaming Data Analysis](#ai-for-Streaming-data-analysis)
+  - [Other Tools](#other-tools)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
 
@@ -90,6 +91,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### AI for Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
+
+### Other Tools
+- **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
+
 
 ## Contribution Guidelines
 
