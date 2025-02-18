@@ -59,6 +59,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
+- **[Gemini](https://gemini.google.com/)**: A coding agent capable of fixing bugs, editing and validating code, and managing tasks under a developer's supervision.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
