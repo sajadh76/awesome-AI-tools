@@ -95,7 +95,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Other Tools
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
-- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people
+- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
 
 
 ## Contribution Guidelines
