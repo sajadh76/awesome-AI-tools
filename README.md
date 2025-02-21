@@ -80,6 +80,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Automation
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
+
 
 ### AI for fun
 - **[Quick, Draw!](https://quickdraw.withgoogle.com/)**: A game where you draw something, and the AI guesses what it is.
@@ -96,8 +98,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Other Tools
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
-- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
-
 
 ## Contribution Guidelines
 
