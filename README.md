@@ -16,8 +16,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **O** | [🛠️ Other Tools](#other-tools) |
 | **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
-| **S** | [🎙️ Speech-to-Text Models](#speech-to-text-models) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
-| **W** | [✍️ Writing Tools](#writing-tools) |
+| **S** | [🎙️ Speech-to-Text](#speech-to-text) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
+| **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
 - [📖 Contribution Guidelines](#contribution-guidelines)  
@@ -90,13 +90,13 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Connected Papers](https://www.connectedpapers.com)**: Helps visualize connections between academic papers.
 - **[Zotero](https://www.zotero.org)**: Free, easy-to-use tool for managing citations and references.
 
-### Speech-to-Text Models
+### Speech-to-Text
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
-### Writing Tools
+### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
 - **[Copy.ai](https://copy.ai)**: Assists in writing marketing copy, social media posts, etc.
 - **[Jasper.ai](https://jasper.ai)**: AI for content creation, especially useful for SEO-optimized writing.
