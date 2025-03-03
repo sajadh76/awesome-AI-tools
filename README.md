@@ -82,7 +82,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Beautiful.ai](https://www.beautiful.ai)**: AI for automated slide design in presentations.
   
 ### Programming
-- **[Cursor](https://www.cursor.com/)**: Integrate advanced AI features directly into the coding environment.
+- **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
