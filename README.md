@@ -89,6 +89,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
 - **[Connected Papers](https://www.connectedpapers.com)**: Helps visualize connections between academic papers.
 - **[Zotero](https://www.zotero.org)**: Free, easy-to-use tool for managing citations and references.
+- **[Unriddle](https://www.unriddle.ai/)**: Quickly understand papers, books, and recorded audio, write and cite with AI, and keep everything organized.
+
 
 ### Speech-to-Text
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
