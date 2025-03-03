@@ -83,6 +83,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
+- **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
