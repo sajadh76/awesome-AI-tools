@@ -14,7 +14,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
 | **M** | [🧮 Mathematics and Calculations](#mathematics-and-calculations) |
 | **O** | [🛠️ Other Tools](#other-tools) |
-| **P** | [🎨 Presentation and Design](#presentation-and-design) |
+| **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
 | **S** | [🎙️ Speech-to-Text Models](#speech-to-text-models) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
 | **W** | [✍️ Writing Tools](#writing-tools) |
@@ -80,6 +80,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
 - **[Canva](https://www.canva.com)**: Graphic design platform with templates for presentations and social media.
 - **[Beautiful.ai](https://www.beautiful.ai)**: AI for automated slide design in presentations.
+  
+### Programming
+- **[Cursor](https://www.cursor.com/)**: Integrate advanced AI features directly into the coding environment.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
