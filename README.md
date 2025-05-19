@@ -131,7 +131,7 @@ To report an issue or suggest a new AI tool, please use the following format:
 
 - **Tool Name**: [Name of the Tool]
 - **URL**: [URL]
-- **Description**: Brief description
-- **Category**: Suggested category (if it doesn't exist)
+- **Description**: Brief description.
+- **Category**: Suggested category (if it doesn't exist).
 
 ---
