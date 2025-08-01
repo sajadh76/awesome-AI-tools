@@ -26,7 +26,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ## Categories
 
 ### Automation
-- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
 
 ### ChatBot, Summarization, and Note-Taking
@@ -40,7 +40,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 
 ### Cybersecurity and Hacking
-- **WormGPT** Blackhat alternative to GPT models, designed specifically for malicious activities.
+- **WormGPT**: Blackhat alternative to GPT models, designed specifically for malicious activities.
 - **[PentestGPT](https://pentestgpt.ai/)** Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)** Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)** A specialized GPT for the latest APT threat intelligence.
