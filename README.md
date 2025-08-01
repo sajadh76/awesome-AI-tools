@@ -45,7 +45,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)** Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)** A specialized GPT for the latest APT threat intelligence.
 - **[STRIDE GPT](https://grok.com/)** An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-- **[ZAMA](https://www.zama.ai/)**Build Confidential Applications on Any Blockchain
+- **[ZAMA](https://www.zama.ai/)** Build confidential applications on any blockchain.
 
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
