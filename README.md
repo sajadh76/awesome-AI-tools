@@ -109,6 +109,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Copy.ai](https://copy.ai)**: Assists in writing marketing copy, social media posts, etc.
 - **[Jasper.ai](https://jasper.ai)**: AI for content creation, especially useful for SEO-optimized writing.
 - **[QuillBot](https://quillbot.com)**: Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
+- **[Serplux](https://serplux.com)**: AI tool for content creation, generating articles, blog posts, and more.
+- 
 
 ## Contribution Guidelines
 
