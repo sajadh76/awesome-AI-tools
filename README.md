@@ -96,6 +96,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Unriddle](https://www.unriddle.ai/)**: Quickly understand papers, books, and recorded audio, write and cite with AI, and keep everything organized.
 - **[ANSWERTHIS](https://answerthis.io/)**: Find research gaps, request summaries of papers, receive paragraph-by-paragraph citations and access relevant sources.
 - **[GPT Researcher](https://gptr.dev/)**: LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- **[Google Scholar Labs](https://scholar.google.com/scholar_labs/search)**: AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
 
 
 
