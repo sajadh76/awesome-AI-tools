@@ -87,6 +87,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
+- **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
