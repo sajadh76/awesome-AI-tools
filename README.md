@@ -98,6 +98,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[ANSWERTHIS](https://answerthis.io/)**: Find research gaps, request summaries of papers, receive paragraph-by-paragraph citations and access relevant sources.
 - **[GPT Researcher](https://gptr.dev/)**: LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - **[Google Scholar Labs](https://scholar.google.com/scholar_labs/search)**: AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data — methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
 
 
 
