@@ -40,7 +40,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Gemini](https://gemini.google.com/)**: A coding agent capable of fixing bugs, editing and validating code, and managing tasks under a developer's supervision.
 - **[Grok](https://grok.com/)**: Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.
 
-
 ### Cybersecurity and Hacking
 - **WormGPT**: Blackhat alternative to GPT models, designed specifically for malicious activities.
 - **[PentestGPT](https://pentestgpt.ai/)**: Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
@@ -100,8 +99,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[GPT Researcher](https://gptr.dev/)**: LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - **[Google Scholar Labs](https://scholar.google.com/scholar_labs/search)**: AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
 - **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data — methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
-
-
+- **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
 ### Speech-to-Text
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
