@@ -29,6 +29,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations — from one prompt.
+- **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
