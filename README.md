@@ -84,6 +84,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
 - **[Canva](https://www.canva.com)**: Graphic design platform with templates for presentations and social media.
 - **[Beautiful.ai](https://www.beautiful.ai)**: AI for automated slide design in presentations.
+- **[LandscapioAI](https://www.landscapioai.com/)**: AI landscape design generator that turns yard photos into backyard, front-yard, patio, and garden redesign concepts with planning guidance.
   
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
