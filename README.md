@@ -70,6 +70,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
+- **[TinyTools](https://tinytools-smoky.vercel.app/)**: Free browser-based AI utilities — AI background remover (runs locally in-browser via WebAssembly), OG image generator, favicon generator, color palette generator, SEO meta tag generator, and domain name generator. No signup, open source.
 
 ### Mathematics and Calculations
 - **[Cymath](https://www.cymath.com)**: Solves math problems step-by-step.
