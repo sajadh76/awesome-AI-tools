@@ -112,7 +112,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
 ### Video Generation
-- **[ImagineClip](https://imagineclip.com?ref=sajadh76-awesome-ai-tools)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
