@@ -17,6 +17,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
 | **S** | [🎙️ Speech-to-Text](#speech-to-text) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
+| **V** | [🎬 Video Generation](#video-generation) |
 | **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
@@ -109,6 +110,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
+
+### Video Generation
+- **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
