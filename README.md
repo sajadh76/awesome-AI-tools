@@ -70,6 +70,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Midjourney](https://www.midjourney.com/home)**: A text-to-image AI where your imagination is the only limit.
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
+- **[Seedream AI Studio](https://seedream4.video/)**: Multi-model AI image generation platform powered by ByteDance Seedream 5.0/4.5/4.0, ranked #1 in the AI Image Arena. Supports up to 10 reference images and one-click video generation via Kling 2.1. Free tier available.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
