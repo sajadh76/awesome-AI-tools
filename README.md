@@ -94,6 +94,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
