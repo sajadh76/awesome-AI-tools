@@ -69,6 +69,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 - **[Midjourney](https://www.midjourney.com/home)**: A text-to-image AI where your imagination is the only limit.
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+- **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 
 ### Image Processing and Computer Vision
