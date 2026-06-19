@@ -9,7 +9,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
 | **A** | [⚙️ Automation](#automation) |
-| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) | • [🧑‍💻 Coding Assistant](#coding-assistant) |
+| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) • [🧑‍💻 Coding Assistant](#coding-assistant) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
 | **M** | [🧮 Mathematics and Calculations](#mathematics-and-calculations) |
