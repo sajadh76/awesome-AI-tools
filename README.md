@@ -32,6 +32,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
+- **[NotFair](https://github.com/nowork-studio/NotFair)**: Open-source Claude Code skills (~2.9k stars) for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to automate audits, keyword research, bid management, and ad creative workflows.
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
