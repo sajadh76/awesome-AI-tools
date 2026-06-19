@@ -17,6 +17,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
 | **S** | [🎙️ Speech-to-Text](#speech-to-text) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
+| **V** | [🎬 Video Generation](#video-generation) |
 | **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
@@ -28,7 +29,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Automation
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
-- **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations — from one prompt.
+- **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
+- **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 
 ### ChatBot, Summarization, and Note-Taking
@@ -68,6 +70,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Midjourney](https://www.midjourney.com/home)**: A text-to-image AI where your imagination is the only limit.
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
+- **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
@@ -89,7 +92,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
+- **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
@@ -99,7 +105,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[ANSWERTHIS](https://answerthis.io/)**: Find research gaps, request summaries of papers, receive paragraph-by-paragraph citations and access relevant sources.
 - **[GPT Researcher](https://gptr.dev/)**: LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - **[Google Scholar Labs](https://scholar.google.com/scholar_labs/search)**: AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
-- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data — methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data - methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
 - **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
 ### Speech-to-Text
@@ -107,6 +113,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
+
+### Video Generation
+- **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
