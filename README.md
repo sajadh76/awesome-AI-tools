@@ -9,7 +9,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
 | **A** | [⚙️ Automation](#automation) |
-| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) |
+| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) | • [🧑‍💻 Coding Assistant](#coding-assistant) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
 | **M** | [🧮 Mathematics and Calculations](#mathematics-and-calculations) |
@@ -49,6 +49,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)**: A specialized GPT for the latest APT threat intelligence.
 - **[STRIDE GPT](https://grok.com/)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - **[ZAMA](https://www.zama.ai/)**: Build confidential applications on any blockchain.
+
+### Coding assistant
+- **[Graphify](https://graphifylabs.ai/)**: Graphify turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device. No rebuilds.
 
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
