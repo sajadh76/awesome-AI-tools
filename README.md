@@ -71,6 +71,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
+- **[ArtImageHub](https://artimagehub.com)**: AI old photo restoration that repairs scratches and damage, removes noise, and colorizes black-and-white photos online. Free preview, $4.99 to download.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
