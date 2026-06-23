@@ -68,6 +68,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates ultra-realistic images of people who don’t exist.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**:A virtual drawing canvas that lets you draw on the screen using hand gestures detected by your webcam.
 - **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand.
+- **[Auferet](https://auferet.com/)**: An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 
 ### Image Generation and Enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
