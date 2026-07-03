@@ -9,7 +9,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
 | **A** | [⚙️ Automation](#automation) |
-| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) |
+| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) • [🧑‍💻 Coding Assistant](#coding-assistant) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
 | **M** | [🧮 Mathematics and Calculations](#mathematics-and-calculations) |
@@ -33,6 +33,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 - **[Remio](https://remio.ai/)**: Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
+- **[NotFair](https://github.com/nowork-studio/NotFair)**: Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, powered by the Google Ads, Meta Ads, Search Console, and GA4 MCPs.
+- **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
@@ -51,6 +53,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[STRIDE GPT](https://grok.com/)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - **[ZAMA](https://www.zama.ai/)**: Build confidential applications on any blockchain.
 
+### Coding assistant
+- **[Graphify](https://graphifylabs.ai/)**: Graphify turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device. No rebuilds.
+
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
 - **[Chaingpt](https://www.chaingpt.org/)**: This tool is an advanced AI model that assists individuals and businesses working on blockchain and cryptocurrency projects.
@@ -65,12 +70,16 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates ultra-realistic images of people who don’t exist.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**:A virtual drawing canvas that lets you draw on the screen using hand gestures detected by your webcam.
 - **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand.
+- **[Auferet](https://auferet.com/)**: An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 
 ### Image Generation and Enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 - **[Midjourney](https://www.midjourney.com/home)**: A text-to-image AI where your imagination is the only limit.
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+- **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
+- **[HairWow](https://www.gohairwow.com)**: AI hairstyle try-on for previewing haircuts, hair colors, beards, and salon or barber references from one photo.
+- **[ImagineClip](https://imagineclip.com)**: AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
@@ -83,6 +92,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Other Tools
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - **[Stability AI](https://stability.ai/)**: Diffusion models for Image, Video, Speech, 3D, and Language.
+- **[BlynkAI Telo](https://blynkai.app/telo/)**: An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
@@ -93,8 +103,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
+- **[Tokens Forge](https://tokens-forge.com/)**: Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
 - **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
@@ -114,6 +126,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
 ### Video Generation
+- **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 
 ### Writing
