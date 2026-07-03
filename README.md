@@ -32,6 +32,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
+- **[Remio](https://remio.ai/)**: Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
 - **[NotFair](https://github.com/nowork-studio/NotFair)**: Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, powered by the Google Ads, Meta Ads, Search Console, and GA4 MCPs.
 - **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
 
