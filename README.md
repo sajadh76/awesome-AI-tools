@@ -93,6 +93,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - **[Stability AI](https://stability.ai/)**: Diffusion models for Image, Video, Speech, 3D, and Language.
 - **[BlynkAI Telo](https://blynkai.app/telo/)**: An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
+- **[AnswerLens](https://app.sfdj.net/)**: Audits public evidence on B2B SaaS websites for pricing, proof, docs, comparison, trust, schema, and `llms.txt` gaps.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
