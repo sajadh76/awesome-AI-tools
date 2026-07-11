@@ -22,6 +22,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### 📜 Other Sections  
 - [📖 Contribution Guidelines](#contribution-guidelines)  
+- [ToolMagpie](https://toolmagpie.com) - Live-verified directory of AI agents (customer service, sales, coding, MCP servers, automation) that auto-flags dead tools, with side-by-side comparisons and honest pricing.
 - [🐞 Issue Reporting](#issue-reporting)  
 
 ## Categories
