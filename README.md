@@ -122,6 +122,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
 ### Speech-to-Text
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### Streaming Data Analysis
