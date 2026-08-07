@@ -35,7 +35,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Remio](https://remio.ai/)**: Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
 - **[NotFair](https://github.com/nowork-studio/NotFair)**: Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, powered by the Google Ads, Meta Ads, Search Console, and GA4 MCPs.
 - **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
-- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
+- **[Autoposting](https://autoposting.ai/)**: AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
