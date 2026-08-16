@@ -106,6 +106,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
+- **[Agent QA](https://github.com/vostride/agent-qa)**: Source-available application QA harness for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and self-healing workflows.
 - **[Better Agent](https://github.com/ofekron/better-agent)**: Workspace for running persistent Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
