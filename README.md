@@ -135,6 +135,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Video Generation
 - **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- **[videos.social](https://videos.social/?utm_source=sajadh76-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)**: Turns blogs, PDFs, and prompts into editable faceless videos (script, scenes, voiceover).
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
