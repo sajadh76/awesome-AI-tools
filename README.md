@@ -137,6 +137,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Video Generation
 - **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- **[SEELE TV](https://seele.tv/)**: Cinematic AI video studio with scene consistency and shot-level camera control.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
