@@ -16,8 +16,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **O** | [🛠️ Other Tools](#other-tools) |
 | **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
-| **S** | [🎙️ Speech-to-Text](#speech-to-text) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
-| **V** | [🎬 Video Generation](#video-generation) |
+| **S** | [📡 Streaming Data Analysis](#streaming-data-analysis) |
+| **V** | [🎬 Video Generation](#video-generation) • [🎙️ Voice Generation](#voice-generation) |
 | **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
@@ -130,10 +130,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data - methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
 - **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
-### Speech-to-Text
-- **[CharaVox](https://charavox.com)** - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
-- **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
-
 ### Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
@@ -141,6 +137,11 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - **[SEELE TV](https://seele.tv/)**: Cinematic AI video studio with scene consistency and shot-level camera control.
+
+### Voice Generation
+- **[CharaVox](https://charavox.com)** - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
+- **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
+- **[ElevenLabs](https://elevenlabs.io/)**: Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
