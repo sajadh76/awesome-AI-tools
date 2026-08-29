@@ -9,7 +9,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
 | **A** | [🧠 Agentic AI](#agentic-ai) • [⚙️ Automation](#automation) |
-| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) • [🧑‍💻 Coding Assistant](#coding-assistant) |
+| **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
 | **M** | [🧮 Mathematics and Calculations](#mathematics-and-calculations) |
@@ -26,10 +26,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ## Categories
 
-# Agentic AI
+### Agentic AI
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
-
+- **[SandBase](https://sandbase.ai/)**: Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 
 ### Automation
 - **[Orkas](https://github.com/Orkas-AI/Orkas)**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
@@ -115,7 +115,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - **[Tokens Forge](https://tokens-forge.com/)**: Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
-- **[SandBase](https://sandbase.ai/)**: Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 - **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
@@ -132,7 +131,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
 ### Speech-to-Text
-- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
+- **[CharaVox](https://charavox.com)** - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 
 ### Streaming Data Analysis
