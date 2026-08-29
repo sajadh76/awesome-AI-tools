@@ -137,6 +137,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - **[SEELE TV](https://seele.tv/)**: Cinematic AI video studio with scene consistency and shot-level camera control.
+- **[Higgsfield AI](https://higgsfield.ai/)**: An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 
 ### Voice Generation
 - **[CharaVox](https://charavox.com)** - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
