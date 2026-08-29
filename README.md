@@ -8,7 +8,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
-| **A** | [⚙️ Automation](#automation) |
+| **A** | [🧠 Agentic AI](#agentic-ai) • [⚙️ Automation](#automation) |
 | **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) • [🧑‍💻 Coding Assistant](#coding-assistant) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
@@ -26,11 +26,14 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ## Categories
 
-### Automation
+# Agentic AI
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+- **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
+
+
+### Automation
 - **[Orkas](https://github.com/Orkas-AI/Orkas)**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
-- **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 - **[Remio](https://remio.ai/)**: Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
