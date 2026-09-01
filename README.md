@@ -155,6 +155,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Jasper.ai](https://jasper.ai)**: AI for content creation, especially useful for SEO-optimized writing.
 - **[QuillBot](https://quillbot.com)**: Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 - **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)**: Generates customizable stories from genre, tone, characters, plot details, and length.
+- **[ResumeAI](https://withresumeai.com/)**: Free ATS checker (3 checks/day with no account, 10/day with a free account) and AI resume builder; publishes State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 
 ## Contribution Guidelines
 
