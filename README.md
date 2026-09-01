@@ -88,6 +88,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[ImagineClip](https://imagineclip.com)**: AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
 - **[Rao Edits](https://raoedits.top/)**: Browser-based text-to-image generator and reference-image editor for social visuals, product mockups, and creative iteration.
 - **[YingTu](https://yingtu.ai/en)**: Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration.
+- **[PixGT](https://www.pixgt.com)**: AI visual engine for cross-border e-commerce sellers, with clothing try-on, model swapping, accessory try-on, and pose variation.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
