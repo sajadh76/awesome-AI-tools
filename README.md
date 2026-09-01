@@ -102,6 +102,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Stability AI](https://stability.ai/)**: Diffusion models for Image, Video, Speech, 3D, and Language.
 - **[BlynkAI Telo](https://blynkai.app/telo/)**: An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - **[AISO Tools](https://aisotools.com)**: Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
+- **[StudyArena](https://studyarena.com)**: Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
