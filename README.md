@@ -86,11 +86,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - **[ImageChanger](https://aiimagechanger.app/)**: Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
-- **[HairWow](https://www.gohairwow.com)**: AI hairstyle try-on for previewing haircuts, hair colors, beards, and salon or barber references from one photo.
-- **[ImagineClip](https://imagineclip.com)**: AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
-- **[Rao Edits](https://raoedits.top/)**: Browser-based text-to-image generator and reference-image editor for social visuals, product mockups, and creative iteration.
-- **[YingTu](https://yingtu.ai/en)**: Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration.
-- **[PixGT](https://www.pixgt.com)**: AI visual engine for cross-border e-commerce sellers, with clothing try-on, model swapping, accessory try-on, and pose variation.
+- **[voxelyo](https://voxelyo.com)**: AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
