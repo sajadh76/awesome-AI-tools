@@ -159,6 +159,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[QuillBot](https://quillbot.com)**: Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 - **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)**: Generates customizable stories from genre, tone, characters, plot details, and length.
 - **[ResumeAI](https://withresumeai.com/)**: Free ATS compatibility checker and AI resume builder.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contribution Guidelines
 
