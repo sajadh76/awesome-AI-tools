@@ -8,7 +8,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 | 🔤 **Category** | 📂 **Topics** |
 |---------------|-------------|
-| **A** | [⚙️ Automation](#automation) |
+| **A** | [🧠 Agentic AI](#agentic-ai) • [⚙️ Automation](#automation) |
 | **C** | [🤖 ChatBot, Summarization, and Note-Taking](#chatbot-summarization-and-note-taking) • [🛡️ Cybersecurity and Hacking](#cybersecurity-and-hacking) |
 | **F** | [💰 Finance](#finance) • [📚 Free eBook Download](#free-ebook-download) • [🎉 Fun](#fun) |
 | **I** | [🖼️ Image Generation and Enhancement](#image-generation-and-enhancement) • [📷 Image Processing and Computer Vision](#image-processing-and-computer-vision) |
@@ -16,8 +16,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **O** | [🛠️ Other Tools](#other-tools) |
 | **P** | [🎨 Presentation and Design](#presentation-and-design) • [💻 Programming](#programming) |
 | **R** | [🔬 Research and Citation](#research-and-citation) |
-| **S** | [🎙️ Speech-to-Text](#speech-to-text) • [📡 Streaming Data Analysis](#streaming-data-analysis) |
-| **V** | [🎬 Video Generation](#video-generation) |
+| **S** | [📡 Streaming Data Analysis](#streaming-data-analysis) |
+| **V** | [🎬 Video Generation](#video-generation) • [🎙️ Voice Generation](#voice-generation) |
 | **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
@@ -26,16 +26,26 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ## Categories
 
-### Automation
+### Agentic AI
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
-- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
+- **[SandBase](https://sandbase.ai/)**: Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
+
+### Automation
+- **[Orkas](https://github.com/Orkas-AI/Orkas)**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
 - **[Xquik](https://xquik.com/en)**: Developer-facing X automation platform with REST API, webhooks, and MCP support.
 - **[OpenClaw](https://openclaw.ai/)**: Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
+- **[Remio](https://remio.ai/)**: Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
+- **[NotFair](https://github.com/nowork-studio/NotFair)**: Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, powered by the Google Ads, Meta Ads, Search Console, and GA4 MCPs.
+- **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
+- **[Autoposting](https://autoposting.ai/)**: AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
+- **[BulkPublish](https://app.bulkpublish.com/docs)**: AI-agent social media publishing platform for creating, adapting, batch scheduling, cross-channel publishing, and analytics through API and MCP access.
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
 - **[DeepSeek](https://www.deepseek.com/)**: Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
+- **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
@@ -49,6 +59,9 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)**: A specialized GPT for the latest APT threat intelligence.
 - **[STRIDE GPT](https://grok.com/)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - **[ZAMA](https://www.zama.ai/)**: Build confidential applications on any blockchain.
+
+### Coding assistant
+- **[Graphify](https://graphifylabs.ai/)**: Graphify turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device. No rebuilds.
 
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
@@ -64,12 +77,14 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/)**: Generates ultra-realistic images of people who don’t exist.
 - **[AI Virtual Painter](https://github.com/MohamedAlaouiMhamdi/AI_virtual_Painter)**:A virtual drawing canvas that lets you draw on the screen using hand gestures detected by your webcam.
 - **[Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main)**: In this notebook you can play with a cool effect just by showing the back side of your hand.
+- **[Auferet](https://auferet.com/)**: An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 
 ### Image Generation and Enhancement
 - **[DALL·E 2](https://openai.com/index/dall-e-2/)**: Create realistic images and art from a description in natural language.
 - **[Midjourney](https://www.midjourney.com/home)**: A text-to-image AI where your imagination is the only limit.
 - **[Leonardo AI](https://leonardo.ai/)**: Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
+- **[ImageChanger](https://aiimagechanger.app/)**: Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - **[voxelyo](https://voxelyo.com)**: AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
@@ -82,8 +97,13 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Wolfram Alpha](https://www.wolframalpha.com)**: Computational engine that solves math problems, provides data analysis, and more.
 
 ### Other Tools
+- **[AI Tools Radar](https://aitoolsradar.com/)**: AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - **[Stability AI](https://stability.ai/)**: Diffusion models for Image, Video, Speech, 3D, and Language.
+- **[BlynkAI Telo](https://blynkai.app/telo/)**: An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
+- **[AISO Tools](https://aisotools.com)**: Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
+- **[LLM Pulse](https://llmpulse.ai/)**: Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
+- **[StudyArena](https://studyarena.com)**: Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
@@ -92,11 +112,15 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
+- **[Agent QA](https://github.com/vostride/agent-qa)**: Source-available application QA harness for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and self-healing workflows.
+- **[Better Agent](https://github.com/ofekron/better-agent)**: Workspace for running persistent Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
+- **[Tokens Forge](https://tokens-forge.com/)**: Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
 - **[Google Antigravity](https://antigravity.google/)**: Google Antigravity is an AI-powered IDE, designed for prioritizing AI agents platform for software development.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+- **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
@@ -109,20 +133,31 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**: Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data - methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
 - **[autoresearch](https://github.com/karpathy/autoresearch)**: AI agents running research on single-GPU nanochat training automatically
 
-### Speech-to-Text
-- **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
-
 ### Streaming Data Analysis
 - **[cPB](https://github.com/rezapaki1376/cPB)**: cPB is a method specifically designed to handle the complexities of streaming time series data, effectively addressing the unique challenges associated with this context.
 
 ### Video Generation
+- **[LiveFaceSwap AI](https://livefaceswap.ai/)**: Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
+- **[cv.cm/v](https://cv.cm/v)**: Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - **[ImagineClip](https://imagineclip.com/)**: AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- **[SEELE TV](https://seele.tv/)**: Cinematic AI video studio with scene consistency and shot-level camera control.
+- **[Higgsfield AI](https://higgsfield.ai/)**: An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
+- **[OpusClip](https://www.opus.pro/)**:OpusClip turns long videos into shorts, and publishes them to all social platforms in one click.
+- **[Artlist](https://artlist.io/)**: Artlist blends premium assets with generative AI for video and image creation. Unleash your creativity with music, SFX, footage, voiceover & AI tools.
+
+
+### Voice Generation
+- **[CharaVox](https://charavox.com)** - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
+- **[DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech)**: DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
+- **[ElevenLabs](https://elevenlabs.io/)**: Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
 ### Writing
 - **[Writesonic](https://writesonic.com)**: AI tool for generating articles, blog posts, and more.
 - **[Copy.ai](https://copy.ai)**: Assists in writing marketing copy, social media posts, etc.
 - **[Jasper.ai](https://jasper.ai)**: AI for content creation, especially useful for SEO-optimized writing.
 - **[QuillBot](https://quillbot.com)**: Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
+- **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)**: Generates customizable stories from genre, tone, characters, plot details, and length.
+- **[ResumeAI](https://withresumeai.com/)**: Free ATS compatibility checker and AI resume builder.
 
 ## Contribution Guidelines
 
