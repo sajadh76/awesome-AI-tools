@@ -97,6 +97,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Wolfram Alpha](https://www.wolframalpha.com)**: Computational engine that solves math problems, provides data analysis, and more.
 
 ### Other Tools
+
+- **[NextReset](https://nextreset.ai/)**: Free, independent Codex reset-history and AI-service status resource with source links and a browser-local personal timer.
 - **[AI Tools Radar](https://aitoolsradar.com/)**: AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - **[Flux](https://www.flux.ai/p)**: An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - **[Stability AI](https://stability.ai/)**: Diffusion models for Image, Video, Speech, 3D, and Language.
