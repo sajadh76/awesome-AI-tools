@@ -21,6 +21,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 | **W** | [✍️ Writing](#writing) |
 
 ### 📜 Other Sections  
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 - [📖 Contribution Guidelines](#contribution-guidelines)  
 - [🐞 Issue Reporting](#issue-reporting)  
 
