@@ -51,6 +51,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
 - **[Gemini](https://gemini.google.com/)**: A coding agent capable of fixing bugs, editing and validating code, and managing tasks under a developer's supervision.
 - **[Grok](https://grok.com/)**: Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.
+- **[Screenpipe](https://screenpipe.com)**: Searches locally captured screen text and audio history for recall, meeting notes, and work summaries, with local API and MCP access for AI assistants. Source-available under the Screenpipe Commercial License; configured cloud features can transmit context off-device.
 
 ### Cybersecurity and Hacking
 - **WormGPT**: Blackhat alternative to GPT models, designed specifically for malicious activities.
