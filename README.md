@@ -145,6 +145,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Higgsfield AI](https://higgsfield.ai/)**: An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - **[OpusClip](https://www.opus.pro/)**:OpusClip turns long videos into shorts, and publishes them to all social platforms in one click.
 - **[Artlist](https://artlist.io/)**: Artlist blends premium assets with generative AI for video and image creation. Unleash your creativity with music, SFX, footage, voiceover & AI tools.
+- **[Magic Hour](https://magichour.ai/)**: AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 
 
 ### Voice Generation
