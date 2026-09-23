@@ -43,8 +43,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[BulkPublish](https://app.bulkpublish.com/docs)**: AI-agent social media publishing platform for creating, adapting, batch scheduling, cross-channel publishing, and analytics through API and MCP access.
 
 ### ChatBot, Summarization, and Note-Taking
-- **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
-- **[DeepSeek](https://www.deepseek.com/)**: Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
+- **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-
+- answering, and audio overviews.
+- **[SummarizAI](https://summarizai.ink)**: Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
+- - **[DeepSeek](https://www.deepseek.com/)**: Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
 - **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
