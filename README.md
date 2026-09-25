@@ -105,6 +105,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[AISO Tools](https://aisotools.com)**: Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - **[LLM Pulse](https://llmpulse.ai/)**: Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
 - **[StudyArena](https://studyarena.com)**: Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
+- **[SearchLink](https://searchlink.namubase.com)**: Monitors Google Search Console for traffic drops, sends a daily alert when clicks fall, and emails a Monday summary. Free for up to three sites.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
