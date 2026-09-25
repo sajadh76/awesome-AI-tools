@@ -31,6 +31,8 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - **[SandBase](https://sandbase.ai/)**: Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 
+- **[Yodu](https://yodu.ai)**: Managed AI employees for recurring business tasks, with shared company memory, connected tools, schedules, and configurable approval rules. Paid subscription with personal setup.
+
 ### Automation
 - **[Orkas](https://github.com/Orkas-AI/Orkas)**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - **[N8N](https://n8n.io/)**: Secure and AI-native workflow automation tool for technical people.
