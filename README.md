@@ -123,6 +123,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 - **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
+- **[DeployReview](https://poe.com/DeployReview)**: Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
+- **[DiffExplainerHQ](https://poe.com/DiffExplainerHQ)**: Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
+- **[LLMAuditor](https://poe.com/LLMAuditor)**: Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
+- **[DeployCheck](https://x402-extract-service.onrender.com)**: Paid API that audits deploy previews: link checking, llms.txt auditing, and HTTPS migration checks.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
