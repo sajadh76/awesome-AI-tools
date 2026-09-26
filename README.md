@@ -41,6 +41,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
 - **[Autoposting](https://autoposting.ai/)**: AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 - **[BulkPublish](https://app.bulkpublish.com/docs)**: AI-agent social media publishing platform for creating, adapting, batch scheduling, cross-channel publishing, and analytics through API and MCP access.
+- **[ThreadFox](https://threadfox.vip)**: Reddit outreach tools for Claude Desktop, Claude Code and Codex that read each community's rules first, find conversations where people ask for what you sell, draft replies you approve, post from your own Chrome and recheck each post; free open-source research tools in [ThreadFox Lite](https://github.com/amflimited/threadfox-lite).
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
