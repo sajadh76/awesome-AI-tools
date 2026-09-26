@@ -106,6 +106,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[AISO Tools](https://aisotools.com)**: Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - **[LLM Pulse](https://llmpulse.ai/)**: Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
 - **[StudyArena](https://studyarena.com)**: Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
+- **[FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=sajadh76-awesome-ai-tools&utm_medium=resource-directory)**: Photo-based resale pricing for secondhand sellers: snap an item and the AI returns an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ### Presentation and Design
 - **[Gamma](https://gamma.app)**: AI-powered tool to create presentations quickly.
