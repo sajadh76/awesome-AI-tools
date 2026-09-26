@@ -51,6 +51,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
 - **[Gemini](https://gemini.google.com/)**: A coding agent capable of fixing bugs, editing and validating code, and managing tasks under a developer's supervision.
 - **[Grok](https://grok.com/)**: Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.
+- **[Screenpipe](https://screenpipe.com)**: Searches locally captured screen text and audio for meeting notes and work summaries.
 
 ### Cybersecurity and Hacking
 - **WormGPT**: Blackhat alternative to GPT models, designed specifically for malicious activities.
@@ -113,7 +114,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
   
 ### Programming
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
-- **[Agent QA](https://github.com/vostride/agent-qa)**: Source-available application QA harness for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and self-healing workflows.
+- **[Agent QA](https://github.com/vostride/agent-qa)**: Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
 - **[Better Agent](https://github.com/ofekron/better-agent)**: Workspace for running persistent Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery.
 - **[GitHub Copilot](https://github.com/features/copilot)**: The AI code editor for everyone.
 - **[CoderPlan](https://coderplan.ai)**: LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
@@ -122,6 +123,10 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)**: Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 - **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
+- **[DeployReview](https://poe.com/DeployReview)**: Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
+- **[DiffExplainerHQ](https://poe.com/DiffExplainerHQ)**: Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
+- **[LLMAuditor](https://poe.com/LLMAuditor)**: Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
+- **[DeployCheck](https://x402-extract-service.onrender.com)**: Paid API that audits deploy previews: link checking, llms.txt auditing, and HTTPS migration checks.
 
 ### Research and Citation
 - **[Semantic Scholar](https://www.semanticscholar.org)**: AI-powered academic research database.
@@ -146,6 +151,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[OpusClip](https://www.opus.pro/)**:OpusClip turns long videos into shorts, and publishes them to all social platforms in one click.
 - **[Artlist](https://artlist.io/)**: Artlist blends premium assets with generative AI for video and image creation. Unleash your creativity with music, SFX, footage, voiceover & AI tools.
 - **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
+- **[Magic Hour](https://magichour.ai/)**: AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 
 
 ### Voice Generation
