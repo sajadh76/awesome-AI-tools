@@ -44,6 +44,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
+- **[SummarizAI](https://summarizai.ink)**: Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - **[DeepSeek](https://www.deepseek.com/)**: Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
 - **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
