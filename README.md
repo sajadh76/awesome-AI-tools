@@ -89,6 +89,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[ClearCrowds](https://www.clearcrowds.com)**: AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - **[ImageChanger](https://aiimagechanger.app/)**: Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
+- **[Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/)**: Turns one user-owned or authorized photo into an original anime-style social avatar without requiring an account.
 - **[voxelyo](https://voxelyo.com)**: AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
 ### Image Processing and Computer Vision
