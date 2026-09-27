@@ -168,6 +168,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[QuillBot](https://quillbot.com)**: Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 - **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)**: Generates customizable stories from genre, tone, characters, plot details, and length.
 - **[ResumeAI](https://withresumeai.com/)**: Free ATS compatibility checker and AI resume builder.
+- **[kdpbook.io](https://kdpbook.io)**: AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
 
 ## Contribution Guidelines
 
