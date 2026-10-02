@@ -91,6 +91,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Raphael AI](https://raphael.app)**: AI design studio for product photos, ad creatives, and brand visuals.
 - **[Aurcue](https://www.aurcue.com)**: AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - **[voxelyo](https://voxelyo.com)**: AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
+- **[Tesla Wrap Generator](https://teslawrapgenerator.com/)**: Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG.
 
 ### Image Processing and Computer Vision
 - **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
