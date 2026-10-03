@@ -31,6 +31,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Taskade](https://taskade.com)**: AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - **[SandBase](https://sandbase.ai/)**: Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 - **[API.market MCP Gateway](https://api.market/api/mcp/gateway)**: Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
+- **[Tale](https://tale.dev/)**: Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 
 ### Automation
 - **[Orkas](https://github.com/Orkas-AI/Orkas)**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
