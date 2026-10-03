@@ -42,6 +42,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[BlynkAI Tudo](https://blynkai.app/tudo/)**: An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
 - **[Autoposting](https://autoposting.ai/)**: AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 - **[BulkPublish](https://app.bulkpublish.com/docs)**: AI-agent social media publishing platform for creating, adapting, batch scheduling, cross-channel publishing, and analytics through API and MCP access.
+- **[LogNorm](https://lognorm.com)**: SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP; fixes verified on the live site.
 
 ### ChatBot, Summarization, and Note-Taking
 - **[NotebookLM](https://notebooklm.google/)**: A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
