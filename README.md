@@ -71,6 +71,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
 - **[Chaingpt](https://www.chaingpt.org/)**: This tool is an advanced AI model that assists individuals and businesses working on blockchain and cryptocurrency projects.
+- **[Equibles](https://equibles.com)**: Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
 
 ### Free eBook Download
 - **[Ocean of PDF](https://oceanofpdf.com)**: Free PDFs for books across genres.
