@@ -38,7 +38,7 @@ Thanks for helping grow **Awesome AI Tools**! Every addition makes the list more
 
 ## New categories
 
-If a tool doesn't fit any existing category, propose a new one in your PR. Add it to the **Contents** list and keep categories in alphabetical order.
+If a tool doesn't fit any existing category, propose a new one in your PR. Give it an emoji, add it to the **Contents** list (with the same emoji) and keep categories in alphabetical order.
 
 ## Fixing or removing entries
 
