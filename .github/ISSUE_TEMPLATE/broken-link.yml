@@ -1,0 +1,17 @@
+name: Report a broken or outdated entry
+description: A link is dead, the tool shut down, or the description is wrong
+labels: ["broken link"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Include the correct link or description if you know it.
+    validations:
+      required: true
