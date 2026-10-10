@@ -125,6 +125,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
 - [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
+- [Codex](https://openai.com/codex/) - Build with agents. Codex accelerates real engineering work, from planning and building features to refactors, reviews, and releases.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
 - [DeployReview](https://poe.com/DeployReview) - Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
 - [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
