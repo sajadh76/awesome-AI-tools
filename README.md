@@ -74,7 +74,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Equibles](https://equibles.com)**: Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
 
 ### Free eBook Download
-- **[Ocean of PDF](https://oceanofpdf.com)**: Free PDFs for books across genres.
 - **[Project Gutenberg](https://www.gutenberg.org)**: Over 70,000 free eBooks available for download.
 - **[Open Library](https://openlibrary.org)**: Collection of free eBooks for borrowing and reading.
 
