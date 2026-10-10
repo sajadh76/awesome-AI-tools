@@ -25,11 +25,14 @@ jobs:
         # The "GitHub topic" rule checks repository settings, not the README, so it is skipped.
         # Every other awesome-lint rule still fails the check.
         run: |
-          out=$(npx --yes awesome-lint README.md 2>&1) || true
+          out=$(npx --yes awesome-lint README.md 2>&1) && exit 0
           echo "$out"
-          if echo "$out" | grep '✖' | grep -v 'as a GitHub topic' | grep -q .; then
+          # Fail on any rule error except the topic rule (each error line names its remark-lint rule).
+          if echo "$out" | grep 'remark-lint:' | grep -v 'as a GitHub topic' | grep -q .; then
             exit 1
           fi
+          # Fail if awesome-lint crashed without reporting any rule errors.
+          echo "$out" | grep -q 'as a GitHub topic' || exit 1
 
   links:
     runs-on: ubuntu-latest
