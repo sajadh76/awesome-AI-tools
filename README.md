@@ -181,30 +181,8 @@ Whether you're a student, researcher, or professional, these tools can help you 
 
 ## Contribution Guidelines
 
-We welcome contributions from everyone! To maintain quality, please follow these guidelines:
-
-1. **Additions**: To add a new tool, please submit a pull request with the following information:
-   - Website name
-   - URL
-   - Short description (one to two sentences)
-   - Category (create a new one if necessary)
-
-2. **Format**: Use the following format when adding a new entry:
-   ```markdown
-   - **[Tool Name](https://tool-url.com)**: Brief description of the tool.
-   ```
-
-3. **Updates**: If you find a broken link or an outdated description, please submit an issue or a pull request with the correct information.
-
-4. **New Categories**: Feel free to suggest a new category if you believe it doesn’t fit in the existing ones.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
 
 ## Issue Reporting
 
-To report an issue or suggest a new AI tool, please use the following format:
-
-- **Tool Name**: [Name of the Tool]
-- **URL**: [URL]
-- **Description**: Brief description.
-- **Category**: Suggested category (if it doesn't exist).
-
----
+To suggest a tool or report a broken link, please [open an issue](https://github.com/sajadh76/awesome-AI-tools/issues/new/choose).
