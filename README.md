@@ -159,6 +159,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Artlist](https://artlist.io/)**: Artlist blends premium assets with generative AI for video and image creation. Unleash your creativity with music, SFX, footage, voiceover & AI tools.
 - **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
 - **[Magic Hour](https://magichour.ai/)**: AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
+- **[Clout](https://tryclout.ai/)**: Create AI characters, generate images and videos, and build faceless content for social channels.
 
 
 ### Voice Generation
