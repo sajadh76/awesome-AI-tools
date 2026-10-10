@@ -54,7 +54,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[NoteGPT](https://www.notegpt.com)**: Summarizes PDFs, articles, and more using AI.
 - **[TLDR This](https://tldrthis.com)**: Simplifies and summarizes lengthy articles or papers.
 - **[Evernote](https://evernote.com)**: Organizes notes, tasks, and supports clipping from websites.
-- **[Gemini](https://gemini.google.com/)**: A coding agent capable of fixing bugs, editing and validating code, and managing tasks under a developer's supervision.
+- **[Gemini](https://gemini.google.com/)**: Google's multimodal AI assistant for chat, writing, research, coding, and image understanding.
 - **[Grok](https://grok.com/)**: Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.
 - **[Screenpipe](https://screenpipe.com)**: Searches locally captured screen text and audio for meeting notes and work summaries.
 
@@ -62,7 +62,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[PentestGPT](https://pentestgpt.ai/)**: Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)**: Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)**: A specialized GPT for the latest APT threat intelligence.
-- **[STRIDE GPT](https://grok.com/)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
+- **[STRIDE GPT](https://github.com/mrwadams/stride-gpt)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - **[ZAMA](https://www.zama.ai/)**: Build confidential applications on any blockchain.
 
 ### Coding assistant
@@ -96,7 +96,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Stunna](https://stunna-app.com/)**: AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
 
 ### Image Processing and Computer Vision
-- **[Vehicel Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
+- **[Vehicle Tracking](https://github.com/milad-goudarzi/Object-tracking)**: Track and count vehicles in a video using advanced Deep Learning techniques.
 
 ### Mathematics and Calculations
 - **[Cymath](https://www.cymath.com)**: Solves math problems step-by-step.
