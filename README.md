@@ -65,9 +65,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[STRIDE GPT](https://github.com/mrwadams/stride-gpt)**: An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - **[ZAMA](https://www.zama.ai/)**: Build confidential applications on any blockchain.
 
-### Coding assistant
-- **[Graphify](https://graphifylabs.ai/)**: Graphify turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device. No rebuilds.
-
 ### Finance
 - **[PB-TABL](https://github.com/rezapaki1376/PB-TABL)**: This repository contains code for predicting market direction using data from the limit order book.
 - **[Chaingpt](https://www.chaingpt.org/)**: This tool is an advanced AI model that assists individuals and businesses working on blockchain and cryptocurrency projects.
@@ -119,6 +116,7 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Beautiful.ai](https://www.beautiful.ai)**: AI for automated slide design in presentations.
   
 ### Programming
+- **[Graphify](https://graphifylabs.ai/)**: Graphify turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device. No rebuilds.
 - **[Cursor](https://www.cursor.com/)**: Integrated advanced AI features directly into the coding environment.
 - **[Agent QA](https://github.com/vostride/agent-qa)**: Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
 - **[Better Agent](https://github.com/ofekron/better-agent)**: Workspace for running persistent Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery.
