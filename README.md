@@ -70,7 +70,6 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [PentestGPT](https://pentestgpt.ai/) - Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - [STRIDE GPT](https://github.com/mrwadams/stride-gpt) - 🔓 An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - [Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot) - A specialized GPT for the latest APT threat intelligence.
-- [VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt) - Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - [ZAMA](https://www.zama.ai/) - Build confidential applications on any blockchain.
 
 ## Finance
@@ -125,10 +124,8 @@ Whether you're a student, researcher, or professional, these tools can help you 
 
 ## Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
-- [Better Agent](https://github.com/ofekron/better-agent) - 🔓 Workspace for running persistent Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery.
 - [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
-- [DeployCheck](https://x402-extract-service.onrender.com) - Paid API that audits deploy previews: link checking, llms.txt auditing, and HTTPS migration checks.
 - [DeployReview](https://poe.com/DeployReview) - Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
 - [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
 - [GitHub Copilot](https://github.com/features/copilot) - 🔓 The AI code editor for everyone.
@@ -143,7 +140,6 @@ Whether you're a student, researcher, or professional, these tools can help you 
 ## Research and Citation
 - [ANSWERTHIS](https://answerthis.io/) - Find research gaps, request summaries of papers, receive paragraph-by-paragraph citations and access relevant sources.
 - [autoresearch](https://github.com/karpathy/autoresearch) - 🔓 AI agents running research on single-GPU nanochat training automatically.
-- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - 🔓 Search scientific papers from Claude, Cursor, or any MCP-compatible AI tool. Extracts full-text experimental data - methods, results, quality scores, and 25+ fields per paper. 50 free searches, no API key needed.
 - [Connected Papers](https://www.connectedpapers.com) - Helps visualize connections between academic papers.
 - [Google Scholar Labs](https://scholar.google.com/scholar_labs/search) - AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
 - [GPT Researcher](https://gptr.dev/) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -157,7 +153,6 @@ Whether you're a student, researcher, or professional, these tools can help you 
 ## Video Generation
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
-- [cv.cm/v](https://cv.cm/v) - Queue-free, full-power Seedance 2.0 text-to-video and image-to-video studio with image generation, a node-graph canvas, and a REST API; 100 free credits on signup.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
