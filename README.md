@@ -59,7 +59,6 @@ Welcome to Awesome AI Tools! This repository curates a list of powerful, efficie
 - **[Screenpipe](https://screenpipe.com)**: Searches locally captured screen text and audio for meeting notes and work summaries.
 
 ### Cybersecurity and Hacking
-- **WormGPT**: Blackhat alternative to GPT models, designed specifically for malicious activities.
 - **[PentestGPT](https://pentestgpt.ai/)**: Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - **[VulnGPT](https://chatgpt.com/g/g-blU09Cvvf-vulngpt)**: Focused on vulnerability detection, Vuln GPT aids security professionals in identifying, prioritizing, and addressing weaknesses in their systems.
 - **[Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)**: A specialized GPT for the latest APT threat intelligence.
