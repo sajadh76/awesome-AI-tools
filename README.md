@@ -6,6 +6,8 @@
 
 Whether you're a student, researcher, or professional, these tools can help you streamline your workflow and get more done.
 
+⭐ **If this list helps you, please star it so others can find it too!**
+
 🔓 = open-source project with public source code.
 
 ## Contents
@@ -30,6 +32,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [Writing](#writing)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Issue Reporting](#issue-reporting)
+- [Contributors](#contributors)
 
 ## Agentic AI
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
@@ -186,3 +189,13 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## Issue Reporting
 
 To suggest a tool or report a broken link, please [open an issue](https://github.com/sajadh76/awesome-AI-tools/issues/new/choose).
+
+## Contributors
+
+Thanks to everyone who has helped build this list!
+
+[![Contributors](https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools)](https://github.com/sajadh76/awesome-AI-tools/graphs/contributors)
+
+---
+
+<sub>Last updated: October 2026</sub>
