@@ -42,7 +42,7 @@ If a tool doesn't fit any existing category, propose a new one in your PR. Add i
 
 ## Fixing or removing entries
 
-Found a broken link, an outdated description, or a tool that has shut down? Open a pull request with the fix, or [open an issue](../../issues/new/choose).
+Found a broken link, an outdated description, or a tool that has shut down? Open a pull request with the fix, or [open an issue](https://github.com/sajadh76/awesome-AI-tools/issues/new/choose).
 
 ## Automated checks
 
