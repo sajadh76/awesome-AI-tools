@@ -21,7 +21,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npx --yes awesome-lint README.md
+      - name: Run awesome-lint
+        # The "GitHub topic" rule checks repository settings, not the README, so it is skipped.
+        # Every other awesome-lint rule still fails the check.
+        run: |
+          out=$(npx --yes awesome-lint README.md 2>&1) || true
+          echo "$out"
+          if echo "$out" | grep '✖' | grep -v 'as a GitHub topic' | grep -q .; then
+            exit 1
+          fi
 
   links:
     runs-on: ubuntu-latest
