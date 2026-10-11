@@ -61,6 +61,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [Grok](https://grok.com/) - Free AI assistant from xAI with real-time search, image generation, and trend analysis.
 - [NotebookLM](https://notebooklm.google/) - A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
 - [NoteGPT](https://www.notegpt.com) - Summarizes PDFs, articles, and more using AI.
+- [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans; free to download, optional Pro plan.
 - [Screenpipe](https://screenpipe.com) - Searches locally captured screen text and audio for meeting notes and work summaries.
 - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
