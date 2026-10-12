@@ -76,6 +76,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 ## 💰 Finance
 - [Chaingpt](https://www.chaingpt.org/) - Advanced AI model that assists individuals and businesses working on Blockchain and cryptocurrency projects.
 - [Equibles](https://equibles.com) - Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
+- [Invompt](https://invompt.com/) - Turns work done in an AI assistant into invoices you review before sending, through a hosted MCP server at `https://mcp.invompt.com/mcp`; Continue as guest or sign in with OAuth.
 - [PB-TABL](https://github.com/rezapaki1376/PB-TABL) - 🔓 This repository contains code for predicting market direction using data from the limit order book.
 
 ## 📚 Free eBook Download
