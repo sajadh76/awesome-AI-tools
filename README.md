@@ -116,6 +116,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
 - [NextReset](https://nextreset.ai/) - Free, independent Codex reset-history and AI-service status resource with source links and a browser-local personal timer.
+- [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
 - [StudyArena](https://studyarena.com) - Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
 
