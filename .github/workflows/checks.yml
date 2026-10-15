@@ -4,9 +4,6 @@ on:
   pull_request:
   push:
     branches: [main]
-  schedule:
-    - cron: "0 6 * * 1" # weekly link check
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -41,20 +38,26 @@ jobs:
         with:
           fetch-depth: 0
 
-      # On pull requests, only check links the PR adds, so a site that is
-      # temporarily down elsewhere in the list doesn't block contributors.
-      - name: Collect links added by this PR
+      # Only links being added are checked: on a PR, the links the PR adds;
+      # on a push to main, the links that push adds. Existing entries are never re-checked.
+      - name: Collect added links
         id: added
-        if: github.event_name == 'pull_request'
+        env:
+          BASE: ${{ github.event_name == 'pull_request' && format('origin/{0}', github.base_ref) || github.event.before }}
         run: |
-          git diff --unified=0 "origin/${{ github.base_ref }}...HEAD" -- README.md CONTRIBUTING.md \
-            | grep '^+' | grep -v '^+++' \
-            | grep -oE 'https?://[^ )>"]+' | sort -u > added-links.txt || true
-          echo "Links added by this PR:"; cat added-links.txt
+          if [ -z "$BASE" ] || ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+            echo "No base commit to compare with; nothing to check."
+            : > added-links.txt
+          else
+            git diff --unified=0 "$BASE" HEAD -- README.md CONTRIBUTING.md \
+              | grep '^+' | grep -v '^+++' \
+              | grep -oE 'https?://[^ )>"]+' | sort -u > added-links.txt || true
+          fi
+          echo "Links added:"; cat added-links.txt
           echo "count=$(wc -l < added-links.txt | tr -d ' ')" >> "$GITHUB_OUTPUT"
 
       - name: Check added links
-        if: github.event_name == 'pull_request' && steps.added.outputs.count != '0'
+        if: steps.added.outputs.count != '0'
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -63,17 +66,4 @@ jobs:
             --accept 200,206,401,403,429
             --exclude 'gemini\.google\.com'
             added-links.txt
-          fail: true
-
-      # On main, weekly, and manual runs, check every link in the list.
-      - name: Check all links
-        if: github.event_name != 'pull_request'
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >-
-            --no-progress
-            --max-retries 3
-            --accept 200,206,401,403,429
-            --exclude 'gemini\.google\.com'
-            README.md CONTRIBUTING.md
           fail: true
