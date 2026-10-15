@@ -35,6 +35,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [👥 Contributors](#-contributors)
 
 ## 🧠 Agentic AI
+- [Aident Loadout](https://aident.ai) - Remote MCP server and CLI that gives AI agents 400+ Skills and reusable app connections through one account; free pay-as-you-go plan available.
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
