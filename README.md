@@ -53,3 +53,14 @@ Libraries for building agents with tools, memory, and multi-step workflows.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
 - [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
+
+## Running LLMs Locally
+
+Run open models on your own hardware. No API bills, no data leaving the machine.
+
+- [Ollama](https://github.com/ollama/ollama) - The easiest way to run LLMs locally. One command to pull and serve a model with an OpenAI-compatible API.
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - The engine under most local LLM tools. Plain C/C++, runs everywhere including phones and Raspberry Pis.
+- [LM Studio](https://lmstudio.ai) - Desktop app for running local models with a chat UI and local server mode. Good first stop if you don't live in the terminal.
+- [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted ChatGPT-style UI for local and remote models. Works offline.
+- [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving engine for LLMs. What you reach for when Ollama is not fast enough.
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Gradio-based UI for running lots of model backends with extensions.
