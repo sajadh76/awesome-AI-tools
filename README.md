@@ -111,3 +111,26 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference servers: files, git, databases, web search, and more.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server. Issues, PRs, code, and Actions as agent tool calls.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
+
+## Voice and Audio
+
+Speech to text, text to speech, and everything between.
+
+- [Whisper](https://github.com/openai/whisper) - OpenAI's speech recognition. Still the accuracy baseline everything else is measured against.
+- [Piper](https://github.com/rhasspy/piper) - Fast local neural text to speech. Runs on a Raspberry Pi, voices are small downloads.
+- [Coqui TTS](https://github.com/coqui-ai/TTS) - Text to speech library with voice cloning. The open source toolkit for custom voices.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) - Open source, fully local ElevenLabs alternative: voice cloning, dubbing, transcription, audiobooks.
+
+## Image and Video
+
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion workflows. The power tool for serious image generation work.
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
+
+## Workflow Automation
+
+For agents that need to run on a schedule or react to events.
+
+- [n8n](https://github.com/n8n-io/n8n) - Visual workflow automation with native AI capabilities. Self-hostable; the one people actually run in production.
+- [Dify](https://github.com/langgenius/dify) - Full-stack platform for building LLM apps with agent workflow orchestration.
+- [Langflow](https://github.com/langflow-ai/langflow) - Drag-and-drop builder for LangChain agents and flows.
+- [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI agent that lives on your device and does real work: messages, calendar, browser, cron jobs.
