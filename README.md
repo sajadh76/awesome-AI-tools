@@ -34,3 +34,11 @@ Terminal-first agents that read your repo, edit files, and run commands.
 - [Pi](https://github.com/earendil-works/pi) - Toolkit with a unified multi-provider LLM API, an agent runtime, a terminal UI, and an extensible coding agent CLI.
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek's official plugin-based agent harness, run through npx with a web UI.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Self-hosted control center that runs OpenHands or other agents locally, in Docker, or in the cloud.
+
+## AI Code Editors
+
+Editors with AI built into the editing experience, not bolted on.
+
+- [Cursor](https://cursor.com) - AI-native code editor (VS Code fork) with agent mode for multi-file work. The most widely adopted one in 2026.
+- [Windsurf](https://windsurf.com) - AI IDE with an agent that tracks your actions and codebase context as you work.
+- [Zed](https://github.com/zed-industries/zed) - Fast multiplayer code editor in Rust, with a built-in agent panel that also hosts external agents.
