@@ -82,3 +82,23 @@ Where the embeddings live.
 - [Chroma](https://github.com/chroma-core/chroma) - The simple one. Embeddings database that feels like a Python dict; great for prototypes.
 - [Weaviate](https://github.com/weaviate/weaviate) - Vector DB with hybrid search and GraphQL. Solid pick when you outgrow Chroma.
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector DB on top of Lance columnar format. No infra to run.
+
+## Agent Memory
+
+Agents that remember things across sessions beat agents that start blank every time.
+
+- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for agents. Remembers user preferences and facts, recalls them when relevant.
+- [Letta](https://github.com/letta-ai/letta) - Framework for stateful agents with long-term memory (formerly MemGPT). The research project that started the agent-memory conversation.
+- [Zep](https://github.com/getzep/zep) - Memory server for agents with temporal knowledge graphs. Knows not just what happened, but when.
+- [Supermemory](https://github.com/supermemoryai/supermemory) - Fast memory engine and API built for the AI era.
+
+## Evals and Observability
+
+If you cannot measure it, you cannot tell whether the new prompt helped or hurt.
+
+- [Langfuse](https://github.com/langfuse/langfuse) - Open source LLM observability. Traces, scores, and prompt management; self-hostable.
+- [LangSmith](https://www.langchain.com/langsmith) - LangChain's hosted tracing and eval platform. The default choice if you already live in LangChain.
+- [Braintrust](https://www.braintrust.dev) - Evals, prompt playground, and observability in one place. Strong dataset-driven eval workflow.
+- [Ragas](https://github.com/explodinggradients/ragas) - Metrics for RAG pipelines: faithfulness, answer relevance, context precision. The standard RAG eval library.
+- [DeepEval](https://github.com/confident-ai/deepeval) - LLM eval framework with pytest-style tests for agents and RAG.
+- [Phoenix](https://github.com/Arize-ai/phoenix) - Open source AI observability from Arize. Trace and troubleshoot LLM apps locally.
