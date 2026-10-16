@@ -42,3 +42,14 @@ Editors with AI built into the editing experience, not bolted on.
 - [Cursor](https://cursor.com) - AI-native code editor (VS Code fork) with agent mode for multi-file work. The most widely adopted one in 2026.
 - [Windsurf](https://windsurf.com) - AI IDE with an agent that tracks your actions and codebase context as you work.
 - [Zed](https://github.com/zed-industries/zed) - Fast multiplayer code editor in Rust, with a built-in agent panel that also hosts external agents.
+
+## Agent Frameworks
+
+Libraries for building agents with tools, memory, and multi-step workflows.
+
+- [LangChain](https://github.com/langchain-ai/langchain) - The original LLM app framework. Chains, tools, and agents; huge ecosystem.
+- [LangGraph](https://github.com/langchain-ai/langgraph) - Build agents as stateful graphs. Good when your workflow has branches, loops, and human-in-the-loop steps.
+- [CrewAI](https://github.com/crewAIInc/crewAI) - Lightweight library for teams of agents with roles, tasks, and delegation.
+- [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
+- [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
