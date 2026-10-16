@@ -64,3 +64,21 @@ Run open models on your own hardware. No API bills, no data leaving the machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted ChatGPT-style UI for local and remote models. Works offline.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving engine for LLMs. What you reach for when Ollama is not fast enough.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Gradio-based UI for running lots of model backends with extensions.
+
+## RAG and Knowledge
+
+Give models access to your documents instead of hoping they memorized them.
+
+- [RAGFlow](https://github.com/infiniflow/ragflow) - Open source RAG engine with deep document understanding. Handles messy PDFs and tables better than most.
+- [Pathway](https://github.com/pathwaycom/pathway) - Live data RAG with real-time streaming, for agents that need up-to-the-second knowledge.
+- [Firecrawl](https://github.com/firecrawl/firecrawl) - Turn any website into clean markdown or structured data. The fastest way to feed the web into a RAG pipeline.
+- [Exa](https://exa.ai) - Search API built for AI. Semantic search over the web with clean results made for retrieval, not humans.
+
+## Vector Databases
+
+Where the embeddings live.
+
+- [Qdrant](https://github.com/qdrant/qdrant) - High-performance vector search in Rust, with payload filtering that actually works.
+- [Chroma](https://github.com/chroma-core/chroma) - The simple one. Embeddings database that feels like a Python dict; great for prototypes.
+- [Weaviate](https://github.com/weaviate/weaviate) - Vector DB with hybrid search and GraphQL. Solid pick when you outgrow Chroma.
+- [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector DB on top of Lance columnar format. No infra to run.
