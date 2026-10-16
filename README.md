@@ -102,3 +102,12 @@ If you cannot measure it, you cannot tell whether the new prompt helped or hurt.
 - [Ragas](https://github.com/explodinggradients/ragas) - Metrics for RAG pipelines: faithfulness, answer relevance, context precision. The standard RAG eval library.
 - [DeepEval](https://github.com/confident-ai/deepeval) - LLM eval framework with pytest-style tests for agents and RAG.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open source AI observability from Arize. Trace and troubleshoot LLM apps locally.
+
+## MCP
+
+Model Context Protocol: the open standard for giving agents tools. One protocol, works across Claude Code, Cursor, Gemini CLI, and the rest.
+
+- [MCP Specification](https://github.com/modelcontextprotocol/modelcontextprotocol) - The protocol itself. Start here if you want to understand how it works.
+- [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference servers: files, git, databases, web search, and more.
+- [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server. Issues, PRs, code, and Actions as agent tool calls.
+- [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
