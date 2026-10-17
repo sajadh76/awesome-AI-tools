@@ -137,6 +137,7 @@ Whether you're a student, researcher, or professional, these tools can help you 
 - [Google Antigravity](https://antigravity.google/) - AI-powered IDE from Google built around AI agents for software development.
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
 - [LLMAuditor](https://poe.com/LLMAuditor) - Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
+- [Massvai](https://massvai.com) - AI agent that builds full-stack Next.js apps from a prompt, with live preview, Supabase setup, GitHub sync and one-click Vercel deploy; free plan with 100 welcome credits.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 - [Tokens Forge](https://tokens-forge.com/) - Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
