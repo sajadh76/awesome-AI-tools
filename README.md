@@ -195,15 +195,5 @@ To suggest a tool or report a broken link, please [open an issue](https://github
   <b>❤️ Thanks to everyone who has helped build this list!</b>
 </p>
 <p align="center">
-  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://img.shields.io/github/contributors/sajadh76/awesome-AI-tools?style=for-the-badge&label=%F0%9F%91%A5%20Contributors&labelColor=0D1117&color=8A2BE2" alt="Contributors"></a>
+  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools&max=100&columns=10" alt="Contributors"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools&max=100&columns=10" width="720" alt="Contributors"></a>
-</p>
-<p align="center">
-  <sub>Want to see your face here? <a href="CONTRIBUTING.md">Add a tool</a> and open a pull request!</sub>
-</p>
-
----
-
-<sub>Last updated: October 2026</sub>
