@@ -126,6 +126,8 @@ Speech to text, text to speech, and everything between.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion workflows. The power tool for serious image generation work.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
 
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업급 만화 리더로, 제품이 지원하는 모든 번역 언어를 제공합니다. 개인은 만화를 일괄 번역하고 번역을 맞춤 설정하며, 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 작업합니다. API를 개인 작업 흐름에 연결할 수 있으며, 일일 체크인 무료 크레딧과 유료 요금제를 제공합니다.
+
 ## Workflow Automation
 
 For agents that need to run on a schedule or react to events.
