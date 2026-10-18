@@ -4,7 +4,7 @@
 
 > <img src="assets/rocket.svg" height="24" alt=""> A curated list of AI-powered tools for writing, coding, research, design, video, voice, automation, and more.
 
-<img src="assets/green-dot.svg" height="20" alt=""> **Actively maintained, new AI tools added every week**
+<img src="assets/green-dot.svg" height="20" alt=""> **Actively maintained, new AI tools added every week.**
 
 <img src="assets/star.svg" height="20" alt=""> **If this list helps you, please star it so others can find it too!**
 
