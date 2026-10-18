@@ -103,6 +103,7 @@
 
 ## 📷 Image Processing and Computer Vision
 - [Vehicle Tracking](https://github.com/milad-goudarzi/Object-tracking) - 🔓 Track and count vehicles in a video using advanced Deep Learning techniques.
+- [FaceRater](https://facerater.io) - 🔓 Explainable face analysis from a photo: a 0–100 reference score, a named tier and three explained measurements, computed locally in the browser.
 
 ## 🧮 Mathematics and Calculations
 - [Cymath](https://www.cymath.com) - Solves math problems step-by-step.
