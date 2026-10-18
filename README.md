@@ -198,5 +198,5 @@ To suggest a tool or report a broken link, please [open an issue](https://github
   <b>❤️ Thanks to everyone who has helped build this list!</b>
 </p>
 <p align="center">
-  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools&max=100&columns=10" alt="Contributors"></a>
+  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools&max=100&columns=12" alt="Contributors"></a>
 </p>
