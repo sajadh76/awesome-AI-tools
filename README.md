@@ -2,13 +2,13 @@
 
 # Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of AI-powered tools for writing, coding, research, design, video, voice, automation, and more.
+> <img src="assets/rocket.svg" height="24" alt=""> A curated list of AI-powered tools for writing, coding, research, design, video, voice, automation, and more.
 
-Whether you're a student, researcher, or professional, these tools can help you streamline your workflow and get more done.
+<img src="assets/green-dot.svg" height="20" alt=""> **Actively maintained, new AI tools added every week**
 
-⭐ **If this list helps you, please star it so others can find it too!**
+<img src="assets/star.svg" height="20" alt=""> **If this list helps you, please star it so others can find it too!**
 
-🔓 = open-source project with public source code.
+<img src="assets/lock.svg" height="20" alt=""> = open-source project with public source code (marked 🔓 in the list).
 
 ## Contents
 
