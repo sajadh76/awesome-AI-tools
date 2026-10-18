@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="28" viewBox="0 0 20 28">
+  <g>
+    <!-- launch loop: rocket rises and fades out, then comes back from below -->
+    <animateTransform attributeName="transform" type="translate" values="0 6;0 -2;0 -10" keyTimes="0;0.7;1" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.75;1" dur="1.6s" repeatCount="indefinite"/>
+    <!-- fire -->
+    <path d="M7 19 Q10 30 13 19 Z" fill="#FF6D00">
+      <animate attributeName="d" values="M7 19 Q10 30 13 19 Z;M7 19 Q10 26 13 19 Z;M7 19 Q10 31 13 19 Z" dur="0.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M8.3 19 Q10 26 11.7 19 Z" fill="#FFD600">
+      <animate attributeName="d" values="M8.3 19 Q10 26 11.7 19 Z;M8.3 19 Q10 23 11.7 19 Z;M8.3 19 Q10 27 11.7 19 Z" dur="0.15s" repeatCount="indefinite"/>
+    </path>
+    <!-- fins -->
+    <path d="M6 13 L2.5 19 L6.5 18 Z M14 13 L17.5 19 L13.5 18 Z" fill="#E53935"/>
+    <!-- body -->
+    <path d="M10 1 C14 5 14.5 11 13.5 19 L6.5 19 C5.5 11 6 5 10 1 Z" fill="#ECEFF1" stroke="#90A4AE" stroke-width="0.7"/>
+    <!-- nose -->
+    <path d="M10 1 C11.8 2.8 12.6 4.5 12.9 6 L7.1 6 C7.4 4.5 8.2 2.8 10 1 Z" fill="#E53935"/>
+    <!-- window -->
+    <circle cx="10" cy="10" r="2" fill="#29B6F6" stroke="#0277BD" stroke-width="0.6"/>
+  </g>
+</svg>
