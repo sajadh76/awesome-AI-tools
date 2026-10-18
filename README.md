@@ -13,23 +13,23 @@
 ## Contents
 
 - [🧠 Agentic AI](#-agentic-ai)
-- [⚙️ Automation](#-automation)
+- [🔄 Automation](#-automation)
 - [🤖 ChatBot, Summarization, and Note-Taking](#-chatbot-summarization-and-note-taking)
-- [🛡️ Cybersecurity and Hacking](#-cybersecurity-and-hacking)
+- [🔐 Cybersecurity and Hacking](#-cybersecurity-and-hacking)
 - [💰 Finance](#-finance)
 - [📚 Free eBook Download](#-free-ebook-download)
 - [🎉 Fun](#-fun)
-- [🖼️ Image Generation and Enhancement](#-image-generation-and-enhancement)
+- [🌄 Image Generation and Enhancement](#-image-generation-and-enhancement)
 - [📷 Image Processing and Computer Vision](#-image-processing-and-computer-vision)
 - [🧮 Mathematics and Calculations](#-mathematics-and-calculations)
-- [🛠️ Other Tools](#-other-tools)
+- [🧰 Other Tools](#-other-tools)
 - [🎨 Presentation and Design](#-presentation-and-design)
 - [💻 Programming](#-programming)
 - [🔬 Research and Citation](#-research-and-citation)
 - [📡 Streaming Data Analysis](#-streaming-data-analysis)
 - [🎬 Video Generation](#-video-generation)
-- [🎙️ Voice Generation](#-voice-generation)
-- [✍️ Writing](#-writing)
+- [🎤 Voice Generation](#-voice-generation)
+- [📝 Writing](#-writing)
 - [📖 Contribution Guidelines](#-contribution-guidelines)
 - [🐞 Issue Reporting](#-issue-reporting)
 - [👥 Contributors](#-contributors)
@@ -43,7 +43,7 @@
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 
-## ⚙️ Automation
+## 🔄 Automation
 - [Autoposting](https://autoposting.ai/) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
 - [BlynkAI Tudo](https://blynkai.app/tudo/) - An AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks.
 - [BulkPublish](https://app.bulkpublish.com/docs) - AI-agent social media publishing platform for creating, adapting, batch scheduling, cross-channel publishing, and analytics through API and MCP access.
@@ -68,7 +68,7 @@
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
 - [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
-## 🛡️ Cybersecurity and Hacking
+## 🔐 Cybersecurity and Hacking
 - [PentestGPT](https://pentestgpt.ai/) - Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - [STRIDE GPT](https://github.com/mrwadams/stride-gpt) - 🔓 An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 - [Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot) - A specialized GPT for the latest APT threat intelligence.
@@ -90,7 +90,7 @@
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - A game where you draw something, and the AI guesses what it is.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generates ultra-realistic images of people who don’t exist.
 
-## 🖼️ Image Generation and Enhancement
+## 🌄 Image Generation and Enhancement
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - [DALL·E 2](https://openai.com/index/dall-e-2/) - Create realistic images and art from a description in natural language.
@@ -109,7 +109,7 @@
 - [Symbolab](https://www.symbolab.com) - Advanced tool for algebra, calculus, and other math subjects.
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational engine that solves math problems, provides data analysis, and more.
 
-## 🛠️ Other Tools
+## 🧰 Other Tools
 - [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - [AISO Tools](https://aisotools.com) - Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
@@ -166,12 +166,12 @@
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
 
-## 🎙️ Voice Generation
+## 🎤 Voice Generation
 - [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech) - 🔓 DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 - [ElevenLabs](https://elevenlabs.io/) - Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
-## ✍️ Writing
+## 📝 Writing
 - [Copy.ai](https://copy.ai) - Assists in writing marketing copy, social media posts, etc.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
