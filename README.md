@@ -43,6 +43,7 @@
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
+- [Xiaolan Assistant Blue](https://www.bluedoai.com/tools/) - Windows desktop assistant for multi-step tasks, with free tools and optional usage-billed hosted AI models.
 
 ## 🔄 Automation
 - [Autoposting](https://autoposting.ai/) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
