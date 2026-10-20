@@ -1,4 +1,4 @@
-![freepik-export-20241106104055eGpS](https://github.com/user-attachments/assets/693d2162-e578-43e2-af86-69992b8aed17)
+![Awesome AI Tools Banner](assets/awesome-ai-tools.png)
 
 # Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
