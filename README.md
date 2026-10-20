@@ -128,6 +128,7 @@
 - [Canva](https://www.canva.com) - Graphic design platform with templates for presentations and social media.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
+- [Minglyph](https://minglyph.com/) - Generates static lettering image concepts from supplied words or names for poster and cover layouts; spelling and glyph details need review. Freemium.
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
