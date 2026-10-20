@@ -166,6 +166,7 @@
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
 - [Magic Hour](https://magichour.ai/) - AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
+- [Seedance 2.5](https://seedance2-5.io/) - Generates videos up to about 30 seconds from text plus image, video, and audio references, with timestamp-level direction and targeted edits. Paid.
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
 - [Wedding AI](https://weddingai.studio) - AI wedding invitation video maker that turns templates, names, and photos into an HD MP4.
