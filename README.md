@@ -122,6 +122,7 @@
 - [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
 - [StudyArena](https://studyarena.com) - Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
+- [VocalSeparator](https://vocalseparator.com/) - Separates uploaded audio into vocals or four stems, exports WAV tracks, and provides loop, tempo and pitch controls for practice; limited anonymous free tier available.
 
 ## 🎨 Presentation and Design
 - [Beautiful.ai](https://www.beautiful.ai) - AI for automated slide design in presentations.
