@@ -179,6 +179,7 @@
 
 ## 📝 Writing
 - [Copy.ai](https://copy.ai) - Assists in writing marketing copy, social media posts, etc.
+- [HumanPen](https://humanpen.net) - Rewrites AI-drafted text inside DOCX/PPTX/PDF while preserving formatting, citations, tables and formulas; freemium plan available.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
