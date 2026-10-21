@@ -169,6 +169,7 @@
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
+- [ShortSmash](https://github.com/hydope/shortsmash) - 🔓 Generates vertical shorts from a single prompt: AI script, neural voiceover, verified stock footage, karaoke captions, and one-click publishing to social platforms.
 - [Wedding AI](https://weddingai.studio) - AI wedding invitation video maker that turns templates, names, and photos into an HD MP4.
 
 ## 🎤 Voice Generation
