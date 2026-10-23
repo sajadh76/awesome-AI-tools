@@ -160,6 +160,7 @@
 - [cPB](https://github.com/rezapaki1376/cPB) - 🔓 A method designed to handle the complexities of streaming time series data and the unique challenges of that setting.
 
 ## 🎬 Video Generation
+- [AI Pop Video](https://aipopvideo.com/) - Turns photos into template-based AI dance videos. Video generation uses credits.
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
