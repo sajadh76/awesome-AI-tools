@@ -123,6 +123,9 @@ Speech to text, text to speech, and everything between.
 
 ## Image and Video
 
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card.
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free.
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text-to-video and image-to-video generator; free trial; not affiliated with xAI/X.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion workflows. The power tool for serious image generation work.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
 
