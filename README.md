@@ -99,6 +99,7 @@
 - [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card required.
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
 - [Seedream 5.5](https://seedream5-5.net/) - Generates images from text prompts and edits uploaded photos with written instructions, keeping characters consistent across a series; free credits available.
 - [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
@@ -129,6 +130,7 @@
 - [Canva](https://www.canva.com) - Graphic design platform with templates for presentations and social media.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
+- [TeslaWraps](https://teslawraps.design) - Browser editor for Tesla Paint Shop wraps with model templates, 3D preview, and PNG export; core editing free, optional AI credits.
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
@@ -162,6 +164,7 @@
 ## 🎬 Video Generation
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text-to-video and image-to-video generator (Grok Imagine API); free trial credits; not affiliated with xAI or X.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
