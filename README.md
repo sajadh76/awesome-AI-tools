@@ -162,14 +162,17 @@
 - [cPB](https://github.com/rezapaki1376/cPB) - 🔓 A method designed to handle the complexities of streaming time series data and the unique challenges of that setting.
 
 ## 🎬 Video Generation
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack. Paid from $7.99 one-time. Unofficial.
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
 - [Bad Times AI](https://badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove). Paid from $7.99 one-time.
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text-to-video and image-to-video generator (Grok Imagine API); free trial credits; not affiliated with xAI or X.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video. Paid from $7.99 one-time. Not affiliated with Riot Games or K/DA.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
 - [Magic Hour](https://magichour.ai/) - AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
