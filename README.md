@@ -123,6 +123,12 @@ Speech to text, text to speech, and everything between.
 
 ## Image and Video
 
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card.
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free.
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text-to-video and image-to-video generator; free trial; not affiliated with xAI/X.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
+- [Bad Times AI](https://badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion workflows. The power tool for serious image generation work.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
 
