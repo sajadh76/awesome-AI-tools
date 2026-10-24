@@ -92,6 +92,7 @@
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generates ultra-realistic images of people who don’t exist.
 
 ## 🌄 Image Generation and Enhancement
+- [artgen](https://artgen.net/en/tools/image-to-pixel-art) - Free browser AI image tools for photo-to-pixel-art, ASCII art, and creative transforms.
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
 - [DALL·E 2](https://openai.com/index/dall-e-2/) - Create realistic images and art from a description in natural language.
