@@ -119,6 +119,7 @@
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
+- [MEDIAPRONET](https://mediapronet.com/) - Launch and discovery directory of newly launched startups, SaaS and AI tools, with a free read-only MCP server so AI assistants such as Claude or Cursor can search the listings and find alternatives to a product. Listing is free, with an optional paid upgrade.
 - [NextReset](https://nextreset.ai/) - Free, independent Codex reset-history and AI-service status resource with source links and a browser-local personal timer.
 - [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
