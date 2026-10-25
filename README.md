@@ -142,7 +142,7 @@
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
 - [LLMAuditor](https://poe.com/LLMAuditor) - Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
-- [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. Self-hosted (AGPL-3.0) or hosted cloud.
+- [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 - [Tokens Forge](https://tokens-forge.com/) - Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
 - [YYLO](https://github.com/yylo-dev/yylo) - 🔓 Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
