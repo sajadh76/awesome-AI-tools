@@ -129,6 +129,36 @@ Speech to text, text to speech, and everything between.
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
 - [Bad Times AI](https://badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
+- [airapvideo](https://ai-rap-video.asia/) - Vocals + photo → 9:16 lip-sync rap video. From $8.88. Independent fan tool; unofficial; paid.
+- [Alors on Danse AI](https://tryalorsondanse.video/) - Two photos to ~15s white-studio duo dance. From $8.88. Independent fan tool; unofficial; paid.
+- [Bad Times AI](https://badtimesai.cc/) - One photo to ~15s 9:16 quarrel / lip-sync dance. From $8.88. Independent fan tool; unofficial; paid.
+- [bbywowguy AI](https://bbywowguyai.cc/) - One photo to ~10s 9:16 quince/concha meme video. From $8.88. Independent fan tool; unofficial; paid.
+- [Burning Bridges AI](https://burningbridgesvideoai.com/) - 1–2 photos to party template clip (silver cup / where she at). From $8.88. Independent fan tool; unofficial; paid.
+- [Cat in the Hat AI](https://catinthehat.cc/) - One photo to ~10s 9:16 doorbell Halloween prank. From $8.88. Independent fan tool; unofficial; paid.
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc/) - One selfie to ~10–13s “Get a job.” meme short. From $8.88. Independent fan tool; unofficial; paid.
+- [ChatGTT](https://chatgtt.cc/) - One photo to ~10–13s 9:16 card-declined meme. From $8.88. Independent fan tool; unofficial; paid.
+- [Cheba Man AI](https://chebamanai.cc/) - One full-body photo to ~15–17s red stage Tecktonik clip. From $8.88. Independent fan tool; unofficial; paid.
+- [Choosin Texas AI](https://choosintexas.run/) - One photo to ~15s 9:16 emo rooftop cover. From $8.88. Independent fan tool; unofficial; paid.
+- [Chuttamalle Dance AI](https://trychuttamalle.app/) - Authorized portrait to ~15s 9:16 generative dance clip. From $8.88. Independent fan tool; unofficial; paid.
+- [coralineai](https://coralineai.run/) - One selfie to ~10s 9:16 button-eyes doll reveal. From $8.88. Independent fan tool; unofficial; paid.
+- [Corpse Bride AI](https://corpsebride.cc/) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Independent fan tool; unofficial; paid.
+- [Devil Wears Prada AI](https://pradaai.cc/) - One photo to ~15s 9:16 street glow-up video. From $8.88. Independent fan tool; unofficial; paid.
+- [Flying Roadster AI](https://flyingcarai.cc/) - One selfie to ~10–12s night ramp jet/flip short. From $8.88. Independent fan tool; unofficial; paid.
+- [Hotel Lobby AI](https://tryhotellobby.app/) - Two photos to ~15s hotel lobby booth duo. From $8.88. Independent fan tool; unofficial; paid.
+- [Hug In Heaven AI](https://huginheaven.cc/) - Two photos to ~12–15s stairway reunion memorial short (18+). From $8.88. Independent fan tool; unofficial; paid.
+- [JeanPhilAI](https://jeanphilai.cc/) - One photo to ~12–15s blond bob + moustache clip. From $8.88. Independent fan tool; unofficial; paid.
+- [Kiss Cam AI](https://coldplayaffairai.cc/) - 1–2 photos to ~10s stadium kiss-cam clip. From $8.88. Independent fan tool; unofficial; paid.
+- [Raindance AI](https://raindanceai.click/) - Two photos to ~15s pier/dock sequence. From $8.88. Independent fan tool; unofficial; paid.
+- [RemixMeme](https://remixmeme.com/) - AI meme video generator from photos with dance, pet and funny templates for TikTok/Reels. Independent fan tool; unofficial; paid.
+- [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video/) - 1–2 photos to barn tip-toe dance short. From $8.88. Independent fan tool; unofficial; paid.
+- [ShanShenBu AI](https://shanshenbuai.cc/) - One photo to ~13–15s 9:16 flash-step dance. From $8.88. Independent fan tool; unofficial; paid.
+- [Unforgettable Car AI](https://unforgettablecarai.cc/) - One selfie to ~10s 9:16 24 card car reveal. From $8.88. Independent fan tool; unofficial; paid.
+- [Venom Car AI](https://venomcarai.cc/) - One car photo to ~15s goo garage-build short. From $8.88. Independent fan tool; unofficial; paid.
+- [venommakeup AI](https://venommakeup.cc/) - One photo to ~10s 9:16 Halloween half-face goo video. From $8.88. Independent fan tool; unofficial; paid.
+- [Victoria Secret AI](https://victoriasecretai.cc/) - One photo to ~10s 9:16 angel-wing runway walk. From $8.88. Independent fan tool; unofficial; paid.
+- [White Chicks AI](https://whitechicks.cc/) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Independent fan tool; unofficial; paid.
+- [wywmysweetie AI](https://wywmysweetie.run/) - One photo to ~13s 9:16 jersey-club dance. From $8.88. Independent fan tool; unofficial; paid.
+- [ZombieHug](https://aizombie.app/) - Two photos to a vertical zombie love-story video. From $9.99. Independent fan tool; unofficial; paid.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion workflows. The power tool for serious image generation work.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
 
