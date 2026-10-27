@@ -161,17 +161,47 @@
 - [cPB](https://github.com/rezapaki1376/cPB) - 🔓 A method designed to handle the complexities of streaming time series data and the unique challenges of that setting.
 
 ## 🎬 Video Generation
+- [airapvideo](https://ai-rap-video.asia/) - Vocals + photo → 9:16 lip-sync rap video. From $8.88. Independent fan tool; unofficial.
+- [Alors on Danse AI](https://tryalorsondanse.video/) - Two photos to ~15s white-studio duo dance. From $8.88. Independent fan tool; unofficial.
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
+- [Bad Times AI](https://badtimesai.cc/) - One photo to ~15s 9:16 quarrel / lip-sync dance. From $8.88. Independent fan tool; unofficial.
+- [bbywowguy AI](https://bbywowguyai.cc/) - One photo to ~10s 9:16 quince/concha meme video. From $8.88. Independent fan tool; unofficial.
+- [Burning Bridges AI](https://burningbridgesvideoai.com/) - 1–2 photos to party template clip (silver cup / where she at). From $8.88. Independent fan tool; unofficial.
+- [Cat in the Hat AI](https://catinthehat.cc/) - One photo to ~10s 9:16 doorbell Halloween prank. From $8.88. Independent fan tool; unofficial.
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc/) - One selfie to ~10–13s “Get a job.” meme short. From $8.88. Independent fan tool; unofficial.
+- [ChatGTT](https://chatgtt.cc/) - One photo to ~10–13s 9:16 card-declined meme. From $8.88. Independent fan tool; unofficial.
+- [Cheba Man AI](https://chebamanai.cc/) - One full-body photo to ~15–17s red stage Tecktonik clip. From $8.88. Independent fan tool; unofficial.
+- [Choosin Texas AI](https://choosintexas.run/) - One photo to ~15s 9:16 emo rooftop cover. From $8.88. Independent fan tool; unofficial.
+- [Chuttamalle Dance AI](https://trychuttamalle.app/) - Authorized portrait to ~15s 9:16 generative dance clip. From $8.88. Independent fan tool; unofficial.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
+- [coralineai](https://coralineai.run/) - One selfie to ~10s 9:16 button-eyes doll reveal. From $8.88. Independent fan tool; unofficial.
+- [Corpse Bride AI](https://corpsebride.cc/) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Independent fan tool; unofficial.
+- [Devil Wears Prada AI](https://pradaai.cc/) - One photo to ~15s 9:16 street glow-up video. From $8.88. Independent fan tool; unofficial.
+- [Flying Roadster AI](https://flyingcarai.cc/) - One selfie to ~10–12s night ramp jet/flip short. From $8.88. Independent fan tool; unofficial.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
+- [Hotel Lobby AI](https://tryhotellobby.app/) - Two photos to ~15s hotel lobby booth duo. From $8.88. Independent fan tool; unofficial.
+- [Hug In Heaven AI](https://huginheaven.cc/) - Two photos to ~12–15s stairway reunion memorial short (18+). From $8.88. Independent fan tool; unofficial.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
+- [JeanPhilAI](https://jeanphilai.cc/) - One photo to ~12–15s blond bob + moustache clip. From $8.88. Independent fan tool; unofficial.
+- [Kiss Cam AI](https://coldplayaffairai.cc/) - 1–2 photos to ~10s stadium kiss-cam clip. From $8.88. Independent fan tool; unofficial.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
 - [Magic Hour](https://magichour.ai/) - AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
+- [Raindance AI](https://raindanceai.click/) - Two photos to ~15s pier/dock sequence. From $8.88. Independent fan tool; unofficial.
+- [RemixMeme](https://remixmeme.com/) - AI meme video generator from photos with dance, pet and funny templates for TikTok/Reels. Independent fan tool; unofficial.
+- [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video/) - 1–2 photos to barn tip-toe dance short. From $8.88. Independent fan tool; unofficial.
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
+- [ShanShenBu AI](https://shanshenbuai.cc/) - One photo to ~13–15s 9:16 flash-step dance. From $8.88. Independent fan tool; unofficial.
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
 - [ShortSmash](https://github.com/hydope/shortsmash) - 🔓 Generates vertical shorts from a single prompt: AI script, neural voiceover, verified stock footage, karaoke captions, and one-click publishing to social platforms.
+- [Unforgettable Car AI](https://unforgettablecarai.cc/) - One selfie to ~10s 9:16 24 card car reveal. From $8.88. Independent fan tool; unofficial.
+- [Venom Car AI](https://venomcarai.cc/) - One car photo to ~15s goo garage-build short. From $8.88. Independent fan tool; unofficial.
+- [venommakeup AI](https://venommakeup.cc/) - One photo to ~10s 9:16 Halloween half-face goo video. From $8.88. Independent fan tool; unofficial.
+- [Victoria Secret AI](https://victoriasecretai.cc/) - One photo to ~10s 9:16 angel-wing runway walk. From $8.88. Independent fan tool; unofficial.
 - [Wedding AI](https://weddingai.studio) - AI wedding invitation video maker that turns templates, names, and photos into an HD MP4.
+- [White Chicks AI](https://whitechicks.cc/) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Independent fan tool; unofficial.
+- [wywmysweetie AI](https://wywmysweetie.run/) - One photo to ~13s 9:16 jersey-club dance. From $8.88. Independent fan tool; unofficial.
+- [ZombieHug](https://aizombie.app/) - Two photos to a vertical zombie love-story video. From $9.99. Independent fan tool; unofficial.
 
 ## 🎤 Voice Generation
 - [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
