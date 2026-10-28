@@ -40,6 +40,7 @@
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
+- [PlaceCall](https://voygr.tech/placecall/) - Lets an AI agent phone US businesses for reservations, appointments or quotes through a REST API, remote MCP server or agent skill, then returns the outcome and transcript; a new API key includes 250 free calls, after that it is paid per call outcome.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
