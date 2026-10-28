@@ -58,7 +58,7 @@
 - [Xquik](https://xquik.com/en) - Developer-facing X automation platform with REST API, webhooks, and MCP support.
 
 ## 💼 Career
-- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
