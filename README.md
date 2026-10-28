@@ -164,6 +164,7 @@
 ## 🎬 Video Generation
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
+- [FacelessShorts](https://facelessshorts.io/) - Scripted faceless short-form series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
