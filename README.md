@@ -44,6 +44,7 @@
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
+- [Zaru](https://myzaru.com) - Personal AI assistant for email, calendar and web research that shows each step as it works, waits for your approval before it sends a message or changes your calendar, and keeps a memory of you that you can read and edit; free plan available.
 
 ## 🔄 Automation
 - [Autoposting](https://autoposting.ai/) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
