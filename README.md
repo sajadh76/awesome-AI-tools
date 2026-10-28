@@ -14,6 +14,7 @@
 
 - [🧠 Agentic AI](#-agentic-ai)
 - [🔄 Automation](#-automation)
+- [💼 Career](#-career)
 - [🤖 ChatBot, Summarization, and Note-Taking](#-chatbot-summarization-and-note-taking)
 - [🔐 Cybersecurity and Hacking](#-cybersecurity-and-hacking)
 - [💰 Finance](#-finance)
@@ -55,6 +56,9 @@
 - [Orkas](https://github.com/Orkas-AI/Orkas) - 🔓 Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
 - [Xquik](https://xquik.com/en) - Developer-facing X automation platform with REST API, webhooks, and MCP support.
+
+## 💼 Career
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
