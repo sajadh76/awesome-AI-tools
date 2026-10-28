@@ -181,6 +181,7 @@
 
 ## 📝 Writing
 - [Copy.ai](https://copy.ai) - Assists in writing marketing copy, social media posts, etc.
+- [CoverNice](https://covernice.com) - Free KDP cover calculator plus a print-ready wrap generator: spine width from page count and paper stock, bleed and safe area, 300 dpi PDF export.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
