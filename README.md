@@ -173,6 +173,7 @@
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
 - [Magic Hour](https://magichour.ai/) - AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
+- [Pixwit](https://pixwit.ai/) - All-in-one AI creative platform for text-to-video, image-to-video, video effects and AI image generation with multiple top models.
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or webinar into vertical 9:16 shorts, with a speaker-tracking crop and word-level captions.
 - [ShortSmash](https://github.com/hydope/shortsmash) - 🔓 Generates vertical shorts from a single prompt: AI script, neural voiceover, verified stock footage, karaoke captions, and one-click publishing to social platforms.
