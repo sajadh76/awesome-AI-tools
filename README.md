@@ -123,6 +123,7 @@
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of new AI tools, AI games, MCP servers and agent skills, with a free AI cost calculator.
 - [NextReset](https://nextreset.ai/) - Free, independent Codex reset-history and AI-service status resource with source links and a browser-local personal timer.
 - [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Robot Speed](https://www.robot-speed.com) - Runs free SEO audits, schema validation and AI crawler visibility checks on any URL, on the web or through a hosted MCP server for AI assistants.
