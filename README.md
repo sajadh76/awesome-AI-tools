@@ -39,6 +39,7 @@
 - [Aident Loadout](https://aident.ai) - Remote MCP server and CLI that gives AI agents 400+ Skills and reusable app connections through one account; free pay-as-you-go plan available.
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+- [DC Hub](https://dchub.cloud) - Remote MCP server that gives AI agents live power, grid, gas and fiber data plus the Data Center Power Index (DCPI), a daily score of where data centers can get grid power across 300+ markets; free tier needs no key.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
