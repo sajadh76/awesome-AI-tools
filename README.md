@@ -171,6 +171,7 @@
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Transforms a live webcam feed using Face Swap, Try-On, or Restyle references, with browser preview and desktop virtual-camera output.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Magic Hour](https://magichour.ai/) - AI creative platform for text-to-video, image-to-video, video-to-video, face swap, lip sync, image generation, and audio tools, with a public API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into shorts and publishes them to all social platforms in one click.
 - [SEELE TV](https://seele.tv/) - Cinematic AI video studio with scene consistency and shot-level camera control.
