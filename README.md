@@ -184,6 +184,7 @@
 - [ElevenLabs](https://elevenlabs.io/) - Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
 ## 📝 Writing
+- [Coda One](https://www.codaone.ai/) - Free AI detector with no daily limit and no signup, plus an AI humanizer, rewriter and grammar checker with free daily uses (freemium).
 - [Copy.ai](https://copy.ai) - Assists in writing marketing copy, social media posts, etc.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
