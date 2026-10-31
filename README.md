@@ -81,6 +81,7 @@
 
 ## 💰 Finance
 - [Chaingpt](https://www.chaingpt.org/) - Advanced AI model that assists individuals and businesses working on Blockchain and cryptocurrency projects.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform built around looking for evidence that could prove your thesis wrong, with daily reading from public sources, research on filings and data, and a radar that watches for changes against conditions you set; free reading plan available, paid credits for personal research.
 - [Equibles](https://equibles.com) - Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
 - [PB-TABL](https://github.com/rezapaki1376/PB-TABL) - 🔓 This repository contains code for predicting market direction using data from the limit order book.
 
