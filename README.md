@@ -134,6 +134,7 @@
 - [Canva](https://www.canva.com) - Graphic design platform with templates for presentations and social media.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
+- [AdVariq](https://advariq.com/) - AI ad creative and visual design platform to clone winning ad styles and generate marketing visuals.
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
