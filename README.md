@@ -102,6 +102,7 @@
 - [EmptyRoom AI](https://emptyroomai.com) - Virtual staging that furnishes vacant real estate listing photos in any style.
 - [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+- [MakeImg](https://makeimg.ai/) - AI photo generator that turns a text prompt or a reference photo into a new image, with 11 selectable models; free daily credits.
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
 - [Seedream 5.5](https://seedream5-5.net/) - Generates images from text prompts and edits uploaded photos with written instructions, keeping characters consistent across a series; free credits available.
