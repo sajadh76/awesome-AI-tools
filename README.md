@@ -103,6 +103,9 @@
 - [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
 - [Seedream 5.5](https://seedream5-5.net/) - Generates images from text prompts and edits uploaded photos with written instructions, keeping characters consistent across a series; free credits available.
 - [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
