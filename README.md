@@ -132,6 +132,7 @@
 ## 🎨 Presentation and Design
 - [Beautiful.ai](https://www.beautiful.ai) - AI for automated slide design in presentations.
 - [Canva](https://www.canva.com) - Graphic design platform with templates for presentations and social media.
+- [EasySociable](https://easysociable.com/?utm_source=sajadh76-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Install one skill and your AI agent turns a prompt into a branded multi-page carousel for TikTok, Instagram and LinkedIn. Free plan available.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
 
