@@ -71,6 +71,7 @@
 - [Screenpipe](https://screenpipe.com) - Searches locally captured screen text and audio for meeting notes and work summaries.
 - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
+- [Transcribe Video: To The Text](https://video2text.ttt.so) - iOS app that turns video files, YouTube/Vimeo links, and live voice into text with speaker split, Summarize, and TXT/DOCX export (free ≈5 min + 5 MB; Pro available).
 - [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 ## 🔐 Cybersecurity and Hacking
