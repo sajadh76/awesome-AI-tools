@@ -137,6 +137,7 @@
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
+- [CodeI Lab](https://www.codeilab.com) - Third-party GPT API gateway for coding agents: one key calls GPT-6 and GPT-5.6 through OpenAI or Anthropic APIs, with paid plans priced below official pay-as-you-go rates.
 - [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - [Codex](https://openai.com/codex/) - Build with agents. Codex accelerates real engineering work, from planning and building features to refactors, reviews, and releases.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
