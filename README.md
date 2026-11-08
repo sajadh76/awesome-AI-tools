@@ -137,6 +137,7 @@
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
+- [Code By AI](https://www.codebyai.net) - Unified API gateway for coding agents: one key and one prepaid balance for Claude, GPT/Codex and Gemini, billed per token from about one-sixth of official prices.
 - [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - [Codex](https://openai.com/codex/) - Build with agents. Codex accelerates real engineering work, from planning and building features to refactors, reviews, and releases.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
