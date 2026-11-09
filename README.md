@@ -58,6 +58,7 @@
 - [Xquik](https://xquik.com/en) - Developer-facing X automation platform with REST API, webhooks, and MCP support.
 
 ## 💼 Career
+- [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit. The jobs membership is $9 a week, $19 a month or $39 a quarter.
 - [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
