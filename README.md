@@ -62,6 +62,7 @@
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
+- [Enhanciar](https://enhanciar.in/?utm_source=directory&utm_medium=listing&utm_campaign=sajadh76-awesome-ai-tools) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid.
 - [Evernote](https://evernote.com) - Organizes notes, tasks, and supports clipping from websites.
 - [Gemini](https://gemini.google.com/) - Google's multimodal AI assistant for chat, writing, research, coding, and image understanding.
 - [Grok](https://grok.com/) - Free AI assistant from xAI with real-time search, image generation, and trend analysis.
