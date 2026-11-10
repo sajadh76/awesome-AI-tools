@@ -188,6 +188,7 @@
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
+- [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick, such as ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo and Sora. Free plan available (10 prompts a day without signup).
 - [QuillBot](https://quillbot.com) - Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 - [ResumeAI](https://withresumeai.com/) - Free ATS compatibility checker and AI resume builder.
 - [WarmQuant](https://warmquant.com/) - AI-assisted English drafting with selectable writing angles, author and reader personas, and editable saved drafts.
