@@ -1,0 +1,124 @@
+name: VirusTotal
+
+# Checks every link a pull request adds against VirusTotal.
+#
+# Security: this uses pull_request_target so the VT_API_KEY secret is available
+# for pull requests from forks. It never checks out or runs code from the pull
+# request. It only reads the PR's diff as text through the GitHub API, and the
+# workflow itself always comes from the default branch, so a PR cannot change it.
+#
+# Run it by hand for any open PR: Actions > VirusTotal > Run workflow, enter the PR number.
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths: ['README.md', 'CONTRIBUTING.md']
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: Pull request number to check
+        required: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: virustotal-${{ github.event.pull_request.number || inputs.pr }}
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check added links on VirusTotal
+        uses: actions/github-script@v7
+        env:
+          VT_API_KEY: ${{ secrets.VT_API_KEY }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr }}
+        with:
+          script: |
+            const key = process.env.VT_API_KEY;
+            if (!key) { core.setFailed('VT_API_KEY secret is not set.'); return; }
+            const prNumber = Number(process.env.PR_NUMBER);
+            const { owner, repo } = context.repo;
+
+            // Collect URLs on added lines of README.md / CONTRIBUTING.md.
+            const files = await github.paginate(github.rest.pulls.listFiles, { owner, repo, pull_number: prNumber, per_page: 100 });
+            const urls = new Set();
+            for (const f of files) {
+              if (!['README.md', 'CONTRIBUTING.md'].includes(f.filename) || !f.patch) continue;
+              for (const line of f.patch.split('\n')) {
+                if (!line.startsWith('+') || line.startsWith('+++')) continue;
+                for (const m of line.matchAll(/https?:\/\/[^\s)>"'\]]+/g)) urls.add(m[0].replace(/[.,;:]+$/, ''));
+              }
+            }
+            if (urls.size === 0) { core.info('No added links to check.'); return; }
+
+            // Free API tier: 4 requests per minute.
+            const sleep = ms => new Promise(r => setTimeout(r, ms));
+            let last = 0;
+            async function vt(path, opts = {}) {
+              const wait = last + 16000 - Date.now();
+              if (wait > 0) await sleep(wait);
+              last = Date.now();
+              return fetch(`https://www.virustotal.com/api/v3${path}`, { ...opts, headers: { 'x-apikey': key, ...(opts.headers || {}) } });
+            }
+            const urlId = u => Buffer.from(u).toString('base64url');
+
+            async function stats(u) {
+              const r = await vt(`/urls/${urlId(u)}`);
+              if (r.ok) {
+                const a = (await r.json()).data.attributes;
+                if (a.last_analysis_stats && a.last_analysis_date) return a.last_analysis_stats;
+              } else if (r.status !== 404) {
+                throw new Error(`lookup failed: HTTP ${r.status}`);
+              }
+              // No report yet: submit and poll.
+              const s = await vt('/urls', { method: 'POST', body: new URLSearchParams({ url: u }) });
+              if (!s.ok) throw new Error(`submit failed: HTTP ${s.status}`);
+              const id = (await s.json()).data.id;
+              for (let i = 0; i < 12; i++) {
+                const p = await vt(`/analyses/${id}`);
+                if (!p.ok) throw new Error(`analysis failed: HTTP ${p.status}`);
+                const a = (await p.json()).data.attributes;
+                if (a.status === 'completed') return a.stats;
+              }
+              throw new Error('analysis did not finish in time');
+            }
+
+            const rows = [];
+            let bad = false, review = false;
+            for (const u of urls) {
+              let verdict, s = {};
+              try {
+                s = await stats(u);
+                if (s.malicious >= 2 || s.suspicious >= 3) { verdict = '❌ Malicious'; bad = true; }
+                else if (s.malicious >= 1 || s.suspicious >= 1) { verdict = '⚠️ Review'; review = true; }
+                else verdict = '✅ Clean';
+              } catch (e) {
+                verdict = `⚠️ Error: ${e.message}`; review = true;
+              }
+              core.info(`${u}: ${verdict} ${JSON.stringify(s)}`);
+              const link = `https://www.virustotal.com/gui/url/${require('crypto').createHash('sha256').update(u).digest('hex')}`;
+              rows.push(`| ${u} | ${verdict} | ${s.malicious ?? '-'} | ${s.suspicious ?? '-'} | [report](${link}) |`);
+            }
+
+            const marker = '<!-- virustotal-check -->';
+            const summary = bad ? '❌ At least one link was flagged as malicious. Do not merge.'
+              : review ? '⚠️ At least one link needs a manual look before merging.'
+              : '✅ All added links are clean on VirusTotal.';
+            const body = [marker, '### VirusTotal check', '', summary, '',
+              '| Link | Result | Malicious | Suspicious | Details |', '|---|---|---|---|---|', ...rows, '',
+              '_Clean means no vendor flagged it, not that the tool is good. New domains are often unrated._'].join('\n');
+
+            // Update one comment instead of adding a new one each run.
+            const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number: prNumber, per_page: 100 });
+            const prev = comments.find(c => c.body?.includes(marker));
+            if (prev) await github.rest.issues.updateComment({ owner, repo, comment_id: prev.id, body });
+            else await github.rest.issues.createComment({ owner, repo, issue_number: prNumber, body });
+            await core.summary.addRaw(body).write();
+
+            if (bad) core.setFailed('Malicious link found.');
+            else if (review) core.setFailed('A link needs manual review.');
