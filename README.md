@@ -142,6 +142,7 @@
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
 - [DeployReview](https://poe.com/DeployReview) - Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
 - [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
+- [EveryApp](https://everyapp.pro/app-builder) - AI app builder that turns a plain-language description into your own private web app at its own address, shared with the people you invite. Free plan available.
 - [GitHub Copilot](https://github.com/features/copilot) - 🔓 The AI code editor for everyone.
 - [Google Antigravity](https://antigravity.google/) - AI-powered IDE from Google built around AI agents for software development.
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
