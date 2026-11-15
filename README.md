@@ -93,6 +93,7 @@
 - [Auferet](https://auferet.com/) - An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 - [Hand Tracking and Face Mesh](https://github.com/milad-goudarzi/Hand-tracking-and-face-mesh/tree/main) - 🔓 In this notebook you can play with a cool effect just by showing the back side of your hand.
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - A game where you draw something, and the AI guesses what it is.
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for fictional character text chat, voice interaction, customization and creative roleplay; free download with in-app purchases.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generates ultra-realistic images of people who don’t exist.
 
 ## 🌄 Image Generation and Enhancement
