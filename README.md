@@ -67,6 +67,7 @@
 - [Evernote](https://evernote.com) - Organizes notes, tasks, and supports clipping from websites.
 - [Gemini](https://gemini.google.com/) - Google's multimodal AI assistant for chat, writing, research, coding, and image understanding.
 - [Glasp](https://glasp.co/) - Highlights web pages and PDFs, shows YouTube transcripts with AI summaries, and exports notes to Markdown, Notion, and Obsidian. Free plan available.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com) - Gets the transcript of a captioned YouTube video with timestamps, plus AI summaries, translation and chat about the video. Free credits on sign-up, paid plans available.
 - [Grok](https://grok.com/) - Free AI assistant from xAI with real-time search, image generation, and trend analysis.
 - [NotebookLM](https://notebooklm.google/) - A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
 - [NoteGPT](https://www.notegpt.com) - Summarizes PDFs, articles, and more using AI.
