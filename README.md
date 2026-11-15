@@ -64,7 +64,7 @@
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
 - [Evernote](https://evernote.com) - Organizes notes, tasks, and supports clipping from websites.
 - [Gemini](https://gemini.google.com/) - Google's multimodal AI assistant for chat, writing, research, coding, and image understanding.
-- [GetYouTubeTranscript](https://getyoutubetranscript.com) - Gets the transcript of any YouTube video, with AI summaries, translation and chat about the video.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com) - Gets the transcript of any YouTube video, with AI summaries, translation and chat about the video. Free credits on sign-up, paid plans available.
 - [Grok](https://grok.com/) - Free AI assistant from xAI with real-time search, image generation, and trend analysis.
 - [NotebookLM](https://notebooklm.google/) - A tool by Google that helps users understand and organize their documents through summarization, question-answering, and audio overviews.
 - [NoteGPT](https://www.notegpt.com) - Summarizes PDFs, articles, and more using AI.
