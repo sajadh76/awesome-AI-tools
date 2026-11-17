@@ -61,6 +61,7 @@
 
 ## 💼 Career
 - [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
+- [Resume Claim Guard](https://github.com/korey2028-prog/resume-claim-guard) - 🔓 Agent skill that writes a job-tailored resume only from facts the user confirms, then checks each claim and previews interview follow-up questions. Free.
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
