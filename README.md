@@ -162,6 +162,7 @@
 - [Connected Papers](https://www.connectedpapers.com) - Helps visualize connections between academic papers.
 - [Google Scholar Labs](https://scholar.google.com/scholar_labs/search) - AI-powered to act as an advanced research tool, helping users tackle questions that require looking at a subject from multiple angles.
 - [GPT Researcher](https://gptr.dev/) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [JournalCompass](https://journalcompass.com) - Free bilingual journal search across 43,499 SCI/SSCI journals — CAS zones, IF, review times, APC, and an AI journal-matching assistant.
 - [Semantic Scholar](https://www.semanticscholar.org) - AI-powered academic research database.
 - [Unriddle](https://www.unriddle.ai/) - Quickly understand papers, books, and recorded audio, write and cite with AI, and keep everything organized.
 - [Zotero](https://www.zotero.org) - Free, easy-to-use tool for managing citations and references.
