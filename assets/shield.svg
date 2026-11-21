@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+  <!-- shield: soft glow pulse -->
+  <path d="M10 1.5 L17.5 4.5 V10.5 C17.5 15.5 14.2 19 10 20.5 C5.8 19 2.5 15.5 2.5 10.5 V4.5 Z" fill="#1E88E5" stroke="#1565C0" stroke-width="0.8">
+    <animate attributeName="fill" values="#1E88E5;#42A5F5;#1E88E5" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+  <!-- check mark: draws itself, holds, then fades and repeats -->
+  <path d="M6.2 11.2 L9 14 L14 8.4" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12" stroke-dashoffset="12">
+    <animate attributeName="stroke-dashoffset" values="12;12;0;0;12" keyTimes="0;0.15;0.45;0.9;1" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+</svg>
