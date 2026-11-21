@@ -214,7 +214,6 @@ To suggest a tool or report a broken link, please [open an issue](https://github
 <!-- contributors:start -->
 <p align="center">
   <a href="https://github.com/sajadh76" title="sajadh76"><img src="https://avatars.githubusercontent.com/u/40471014?v=4&s=128" width="64" height="64" alt="sajadh76"></a>
-  <a href="https://github.com/claude" title="claude"><img src="https://avatars.githubusercontent.com/u/81847?v=4&s=128" width="64" height="64" alt="claude"></a>
   <a href="https://github.com/milad-goudarzi" title="milad-goudarzi"><img src="https://avatars.githubusercontent.com/u/20543988?v=4&s=128" width="64" height="64" alt="milad-goudarzi"></a>
   <a href="https://github.com/Frank-Masciopinto" title="Frank-Masciopinto"><img src="https://avatars.githubusercontent.com/u/78543213?v=4&s=128" width="64" height="64" alt="Frank-Masciopinto"></a>
   <a href="https://github.com/rezapaki1376" title="rezapaki1376"><img src="https://avatars.githubusercontent.com/u/47396944?v=4&s=128" width="64" height="64" alt="rezapaki1376"></a>
@@ -225,8 +224,8 @@ To suggest a tool or report a broken link, please [open an issue](https://github
   <a href="https://github.com/ununununium" title="ununununium"><img src="https://avatars.githubusercontent.com/u/43973612?v=4&s=128" width="64" height="64" alt="ununununium"></a>
   <a href="https://github.com/Kayvan-Zahiri" title="Kayvan-Zahiri"><img src="https://avatars.githubusercontent.com/u/123409429?v=4&s=128" width="64" height="64" alt="Kayvan-Zahiri"></a>
   <a href="https://github.com/coderbot666" title="coderbot666"><img src="https://avatars.githubusercontent.com/u/343389106?v=4&s=128" width="64" height="64" alt="coderbot666"></a>
-  <br>
   <a href="https://github.com/linsheng9731" title="linsheng9731"><img src="https://avatars.githubusercontent.com/u/5237574?v=4&s=128" width="64" height="64" alt="linsheng9731"></a>
+  <br>
   <a href="https://github.com/hydope" title="hydope"><img src="https://avatars.githubusercontent.com/u/279144930?v=4&s=128" width="64" height="64" alt="hydope"></a>
   <a href="https://github.com/ljhskyso" title="ljhskyso"><img src="https://avatars.githubusercontent.com/u/8700661?v=4&s=128" width="64" height="64" alt="ljhskyso"></a>
   <a href="https://github.com/mantoufan" title="mantoufan"><img src="https://avatars.githubusercontent.com/u/4961543?v=4&s=128" width="64" height="64" alt="mantoufan"></a>
@@ -238,8 +237,8 @@ To suggest a tool or report a broken link, please [open an issue](https://github
   <a href="https://github.com/antivirusakash" title="antivirusakash"><img src="https://avatars.githubusercontent.com/u/18576020?v=4&s=128" width="64" height="64" alt="antivirusakash"></a>
   <a href="https://github.com/Andreexp" title="Andreexp"><img src="https://avatars.githubusercontent.com/u/159912985?v=4&s=128" width="64" height="64" alt="Andreexp"></a>
   <a href="https://github.com/daniel3303" title="daniel3303"><img src="https://avatars.githubusercontent.com/u/36623265?v=4&s=128" width="64" height="64" alt="daniel3303"></a>
-  <br>
   <a href="https://github.com/Eliottdupuy" title="Eliottdupuy"><img src="https://avatars.githubusercontent.com/u/29578362?v=4&s=128" width="64" height="64" alt="Eliottdupuy"></a>
+  <br>
   <a href="https://github.com/estevecastells" title="estevecastells"><img src="https://avatars.githubusercontent.com/u/14035230?v=4&s=128" width="64" height="64" alt="estevecastells"></a>
   <a href="https://github.com/cabbagehao" title="cabbagehao"><img src="https://avatars.githubusercontent.com/u/8425720?v=4&s=128" width="64" height="64" alt="cabbagehao"></a>
   <a href="https://github.com/gralski" title="gralski"><img src="https://avatars.githubusercontent.com/u/95131627?v=4&s=128" width="64" height="64" alt="gralski"></a>
@@ -251,8 +250,8 @@ To suggest a tool or report a broken link, please [open an issue](https://github
   <a href="https://github.com/xqliu" title="xqliu"><img src="https://avatars.githubusercontent.com/u/22554?v=4&s=128" width="64" height="64" alt="xqliu"></a>
   <a href="https://github.com/theluckystrike" title="theluckystrike"><img src="https://avatars.githubusercontent.com/u/51033404?v=4&s=128" width="64" height="64" alt="theluckystrike"></a>
   <a href="https://github.com/nien-cheng" title="nien-cheng"><img src="https://avatars.githubusercontent.com/u/131891871?v=4&s=128" width="64" height="64" alt="nien-cheng"></a>
-  <br>
   <a href="https://github.com/pranshuchittora" title="pranshuchittora"><img src="https://avatars.githubusercontent.com/u/32242596?v=4&s=128" width="64" height="64" alt="pranshuchittora"></a>
+  <br>
   <a href="https://github.com/runshouse" title="runshouse"><img src="https://avatars.githubusercontent.com/u/23641679?v=4&s=128" width="64" height="64" alt="runshouse"></a>
   <a href="https://github.com/shibley" title="shibley"><img src="https://avatars.githubusercontent.com/u/402991?v=4&s=128" width="64" height="64" alt="shibley"></a>
   <a href="https://github.com/maamalama" title="maamalama"><img src="https://avatars.githubusercontent.com/u/38397684?v=4&s=128" width="64" height="64" alt="maamalama"></a>
