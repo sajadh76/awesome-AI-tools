@@ -2,7 +2,8 @@
 
 Lists the repository's contributors from the GitHub API and leaves out:
 - bot accounts,
-- usernames in .github/contributors-blocklist.txt,
+- usernames in the CONTRIBUTORS_BLOCKLIST repository variable (kept in the
+  repository settings, so the list itself is not public),
 - accounts that still have GitHub's default pattern avatar (an "identicon").
 
 The grid is written between the contributors:start and contributors:end markers.
@@ -20,7 +21,6 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "sajadh76/awesome-AI-tools")
 TOKEN = os.environ.get("GITHUB_TOKEN")
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 README = os.path.join(ROOT, "README.md")
-BLOCKLIST = os.path.join(ROOT, ".github", "contributors-blocklist.txt")
 START, END = "<!-- contributors:start -->", "<!-- contributors:end -->"
 PER_ROW = 12
 SIZE = 64
@@ -52,18 +52,14 @@ def has_default_avatar(avatar_url):
 
 
 def main():
-    blocked = set()
-    if os.path.exists(BLOCKLIST):
-        for line in open(BLOCKLIST, encoding="utf-8"):
-            line = line.split("#", 1)[0].strip()
-            if line:
-                blocked.add(line.lower())
+    # One username per line (commas or spaces also work).
+    blocked = {n.lower() for n in re.split(r"[\s,]+", os.environ.get("CONTRIBUTORS_BLOCKLIST", "")) if n}
 
     shown = []
     for c in contributors():
         login = c["login"]
         if c.get("type") != "User" or login.lower() in blocked:
-            print(f"skip   {login} (bot or blocklist)")
+            print(f"skip   (bot or blocklist)")
             continue
         if has_default_avatar(c["avatar_url"]):
             print(f"skip   {login} (default avatar)")
