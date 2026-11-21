@@ -1,0 +1,146 @@
+name: VirusTotal full scan
+
+# Checks every link already in README.md against VirusTotal. Run it by hand:
+# Actions > VirusTotal full scan > Run workflow.
+#
+# The free VirusTotal API allows 4 requests a minute and 500 a day, so this waits
+# 16 seconds between requests and stops before the daily limit. ~170 links take
+# about 1 to 2 hours. If it stops early, run it again the next day with "start at"
+# set to the number it reports.
+#
+# Results go to the run's summary page and to a CSV file attached to the run.
+# Nothing is posted publicly.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_at:
+        description: Link number to start from (1 = first link)
+        default: '1'
+      max_requests:
+        description: Most VirusTotal requests to use in this run (free limit is 500 a day)
+        default: '480'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: virustotal-full-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan README links
+        uses: actions/github-script@v8
+        env:
+          VT_API_KEY: ${{ secrets.VT_API_KEY }}
+          START_AT: ${{ inputs.start_at }}
+          MAX_REQUESTS: ${{ inputs.max_requests }}
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const key = process.env.VT_API_KEY;
+            if (!key) { core.setFailed('VT_API_KEY secret is not set.'); return; }
+
+            const ignore = /contrib\.rocks|avatars\.githubusercontent\.com|github\.com\/sajadh76\/|shields\.io|awesome\.re/;
+            const all = [...new Set(
+              [...fs.readFileSync('README.md', 'utf8').matchAll(/https?:\/\/[^\s)>"'\]]+/g)]
+                .map(m => m[0].replace(/[.,;:]+$/, ''))
+                .filter(u => !ignore.test(u))
+            )];
+            const start = Math.max(1, parseInt(process.env.START_AT || '1', 10));
+            const budget = parseInt(process.env.MAX_REQUESTS || '480', 10);
+            const urls = all.slice(start - 1);
+            core.info(`${all.length} links in README; scanning from #${start} (${urls.length} links), budget ${budget} requests.`);
+
+            const sleep = ms => new Promise(r => setTimeout(r, ms));
+            let used = 0, last = 0;
+            class OutOfBudget extends Error {}
+            async function vt(path, opts = {}) {
+              if (used >= budget) throw new OutOfBudget();
+              const wait = last + 16000 - Date.now();
+              if (wait > 0) await sleep(wait);
+              last = Date.now(); used++;
+              const r = await fetch(`https://www.virustotal.com/api/v3${path}`, { ...opts, headers: { 'x-apikey': key, ...(opts.headers || {}) } });
+              if (r.status === 429) throw new OutOfBudget();  // daily quota used up
+              return r;
+            }
+            const vtId = u => Buffer.from(u).toString('base64url');
+            async function lookup(u) {
+              const r = await vt(`/urls/${vtId(u)}`);
+              if (r.status === 404) return null;
+              if (!r.ok) throw new Error(`HTTP ${r.status}`);
+              const a = (await r.json()).data.attributes;
+              return a.last_analysis_date ? a.last_analysis_stats : null;
+            }
+
+            const results = new Map();   // url -> {stats} or {error}
+            const submitted = [];
+            let stoppedAt = null;
+
+            // Pass 1: look up existing reports; submit links VirusTotal has never seen.
+            for (const [i, u] of urls.entries()) {
+              try {
+                const s = await lookup(u);
+                if (s) results.set(u, { stats: s });
+                else {
+                  const r = await vt('/urls', { method: 'POST', body: new URLSearchParams({ url: u }) });
+                  if (r.ok) submitted.push(u); else results.set(u, { error: `submit HTTP ${r.status}` });
+                }
+              } catch (e) {
+                if (e instanceof OutOfBudget) { stoppedAt = start + i; break; }
+                results.set(u, { error: e.message });
+              }
+              if ((i + 1) % 10 === 0) core.info(`${i + 1}/${urls.length} checked, ${used} requests used`);
+            }
+
+            // Pass 2: newly submitted links have usually finished scanning by now.
+            for (const u of submitted) {
+              try {
+                const s = await lookup(u);
+                results.set(u, s ? { stats: s } : { error: 'scan not finished; run again later' });
+              } catch (e) {
+                if (e instanceof OutOfBudget) { results.set(u, { error: 'out of requests; run again tomorrow' }); continue; }
+                results.set(u, { error: e.message });
+              }
+            }
+
+            const verdict = r => {
+              if (r.error) return ['⚠️ Not checked', 2];
+              const s = r.stats;
+              if (s.malicious >= 2 || s.suspicious >= 3) return ['❌ Malicious', 0];
+              if (s.malicious >= 1 || s.suspicious >= 1) return ['⚠️ Review', 1];
+              return ['✅ Clean', 3];
+            };
+            const rows = [...results].map(([u, r]) => {
+              const [v, rank] = verdict(r);
+              const s = r.stats || {};
+              return { u, v, rank, m: s.malicious ?? '', su: s.suspicious ?? '', note: r.error || '',
+                       link: `https://www.virustotal.com/gui/url/${crypto.createHash('sha256').update(u).digest('hex')}` };
+            }).sort((a, b) => a.rank - b.rank || a.u.localeCompare(b.u));
+
+            const count = k => rows.filter(r => r.v === k).length;
+            const csv = ['url,result,malicious,suspicious,note,report',
+              ...rows.map(r => [r.u, r.v.replace(/^\S+ /, ''), r.m, r.su, r.note, r.link].map(x => `"${String(x).replace(/"/g, '""')}"`).join(','))].join('\n');
+            fs.writeFileSync('virustotal-results.csv', csv);
+
+            let head = `### VirusTotal full scan\n\n${rows.length} links checked, ${used} requests used.\n\n` +
+              `❌ Malicious: **${count('❌ Malicious')}** · ⚠️ Review: **${count('⚠️ Review')}** · ⚠️ Not checked: **${count('⚠️ Not checked')}** · ✅ Clean: **${count('✅ Clean')}**\n\n`;
+            if (stoppedAt) head += `**Stopped early** (request limit reached). Run again tomorrow with "start at" = **${stoppedAt}**.\n\n`;
+            const table = ['| Link | Result | Malicious | Suspicious | Note | Details |', '|---|---|---|---|---|---|',
+              ...rows.map(r => `| ${r.u} | ${r.v} | ${r.m} | ${r.su} | ${r.note} | [report](${r.link}) |`)].join('\n');
+            await core.summary.addRaw(head + table).write();
+
+            if (count('❌ Malicious')) core.setFailed(`${count('❌ Malicious')} link(s) flagged as malicious.`);
+      - name: Attach results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: virustotal-results
+          path: virustotal-results.csv
+          if-no-files-found: ignore
