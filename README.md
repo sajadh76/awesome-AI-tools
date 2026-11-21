@@ -10,6 +10,8 @@
 
 <img src="assets/lock.svg" height="20" alt=""> = open-source project with public source code (marked 🔓 in the list).
 
+<img src="assets/shield.svg" height="20" alt=""> **All links are checked with [VirusTotal](https://www.virustotal.com/) for malware and phishing.**
+
 ## Contents
 
 - [🧠 Agentic AI](#-agentic-ai)
