@@ -1,0 +1,2 @@
+# GitHub usernames to leave out of the README contributors grid, one per line.
+# Accounts with GitHub's default pattern avatar are left out automatically.

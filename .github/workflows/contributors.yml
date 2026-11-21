@@ -1,0 +1,40 @@
+name: Contributors
+
+# Rebuilds the contributors grid in README.md once a week, or on demand from the Actions tab.
+# Leaves out bots, accounts with GitHub's default avatar, and anyone in .github/contributors-blocklist.txt.
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/contributors-blocklist.txt', '.github/scripts/update_contributors.py']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributors
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow==11.3.0
+      - name: Rebuild contributors grid
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_contributors.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && { echo "No change."; exit 0; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update contributors grid"
+          git push
