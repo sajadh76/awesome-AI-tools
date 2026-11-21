@@ -44,7 +44,6 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
-- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - [Zaru](https://myzaru.com) - Personal AI assistant for email, calendar and web research that shows each step as it works, waits for your approval before it sends a message or changes your calendar.
@@ -59,7 +58,6 @@
 - [OpenClaw](https://openclaw.ai/) - Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - 🔓 Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
-- [Xquik](https://xquik.com/en) - Developer-facing X automation platform with REST API, webhooks, and MCP support.
 
 ## 💼 Career
 - [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
@@ -81,7 +79,6 @@
 ## 🔐 Cybersecurity and Hacking
 - [PentestGPT](https://pentestgpt.ai/) - Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - [STRIDE GPT](https://github.com/mrwadams/stride-gpt) - 🔓 An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-- [Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot) - A specialized GPT for the latest APT threat intelligence.
 - [ZAMA](https://www.zama.ai/) - Build confidential applications on any blockchain.
 
 ## 💰 Finance
@@ -103,7 +100,6 @@
 ## 🌄 Image Generation and Enhancement
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
-- [DALL·E 2](https://openai.com/index/dall-e-2/) - Create realistic images and art from a description in natural language.
 - [EmptyRoom AI](https://emptyroomai.com) - Virtual staging that furnishes vacant real estate listing photos in any style.
 - [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
@@ -122,12 +118,10 @@
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational engine that solves math problems, provides data analysis, and more.
 
 ## 🧰 Other Tools
-- [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - [AISO Tools](https://aisotools.com) - Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
-- [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Robot Speed](https://www.robot-speed.com) - Runs free SEO audits, schema validation and AI crawler visibility checks on any URL, on the web or through a hosted MCP server for AI assistants.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
 - [StudyArena](https://studyarena.com) - Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
@@ -141,19 +135,14 @@
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
-- [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - [Codex](https://openai.com/codex/) - Build with agents. Codex accelerates real engineering work, from planning and building features to refactors, reviews, and releases.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
-- [DeployReview](https://poe.com/DeployReview) - Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
-- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
 - [GitHub Copilot](https://github.com/features/copilot) - 🔓 The AI code editor for everyone.
 - [Google Antigravity](https://antigravity.google/) - AI-powered IDE from Google built around AI agents for software development.
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
-- [LLMAuditor](https://poe.com/LLMAuditor) - Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
-- [Tokens Forge](https://tokens-forge.com/) - Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
 - [YYLO](https://github.com/yylo-dev/yylo) - 🔓 Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
 
 ## 🔬 Research and Citation
@@ -184,7 +173,6 @@
 
 ## 🎤 Voice Generation
 - [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
-- [DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech) - 🔓 DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 - [ElevenLabs](https://elevenlabs.io/) - Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
 ## 📝 Writing
