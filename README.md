@@ -177,6 +177,7 @@
 
 ## 📝 Writing
 - [BeLikeNative](https://belikenative.com) - Chrome side panel that checks English for people who write it as a second language, giving a one-line reason for each fix, and rewrites tone or translates with Chrome's built-in AI.
+- [Castlori](https://castlori.com/chat) - Lets writers build AI characters, test dialogue in interactive scenes, and publish original stories, comics, and manga.
 - [Copy.ai](https://copy.ai) - Assists in writing marketing copy, social media posts, etc.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - [Jasper.ai](https://jasper.ai) - AI for content creation, especially useful for SEO-optimized writing.
