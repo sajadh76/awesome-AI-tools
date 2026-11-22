@@ -143,6 +143,7 @@
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+- [Sharpen](https://github.com/melthond/sharpen) - 🔓 Claude Code plugin that, when turned on, rewrites each eligible prompt from the conversation, codebase and installed tools, and shows it for approval before work starts.
 - [YYLO](https://github.com/yylo-dev/yylo) - 🔓 Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
 
 ## 🔬 Research and Citation
