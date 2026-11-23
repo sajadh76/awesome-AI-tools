@@ -132,6 +132,7 @@
 - [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Desktop interface design app whose built-in MCP server lets Claude Code, Codex or Gemini CLI read and edit .fig designs. Free.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
+- [Wavegrain](https://wavegrain.com) - Writes and designs TikTok slideshows and Instagram carousels for a brand, then schedules and posts them.
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
