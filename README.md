@@ -109,6 +109,7 @@
 - [voxelyo](https://voxelyo.com) - AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
 ## 📷 Image Processing and Computer Vision
+- [ClearBG](https://greatwork.company/tools/clearbg) - Removes the background from a photo and returns a transparent PNG, with a watermarked preview before you buy. Paid credit packs from $4.99.
 - [Vehicle Tracking](https://github.com/milad-goudarzi/Object-tracking) - 🔓 Track and count vehicles in a video using advanced Deep Learning techniques.
 - [FaceRater](https://facerater.io) - 🔓 Explainable face analysis from a photo: a 0–100 reference score, a named tier and three explained measurements, computed locally in the browser.
 
