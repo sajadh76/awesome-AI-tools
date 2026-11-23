@@ -160,6 +160,7 @@
 
 ## 🎬 Video Generation
 - [Artlist](https://artlist.io/) - Blends premium assets with generative AI for video and image creation, including music, SFX, footage, and voiceover.
+- [Burncaps](https://burncaps.app/) - Turns a long talk, podcast or webinar into ranked 9:16 clips with word-by-word captions, in the browser, without uploading the video. Free plan available.
 - [Clout](https://tryclout.ai/) - Create AI characters, generate images and videos, and build faceless content for social channels.
 - [Higgsfield AI](https://higgsfield.ai/) - An all-in-one generative AI platform designed for creating cinematic short-form videos, images, and marketing content from text prompts, product links, or reference images.
 - [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
