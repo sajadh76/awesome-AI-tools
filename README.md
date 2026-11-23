@@ -84,6 +84,7 @@
 ## 💰 Finance
 - [Chaingpt](https://www.chaingpt.org/) - Advanced AI model that assists individuals and businesses working on Blockchain and cryptocurrency projects.
 - [Equibles](https://equibles.com) - Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
+- [FlowFeed](https://flowfeed.cc) - Gives Claude, ChatGPT and other AI assistants real-time macro, forex and crypto news, an economic calendar and central bank releases over a remote MCP server; paid ($9/month).
 - [PB-TABL](https://github.com/rezapaki1376/PB-TABL) - 🔓 This repository contains code for predicting market direction using data from the limit order book.
 
 ## 📚 Free eBook Download
