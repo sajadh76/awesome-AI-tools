@@ -85,6 +85,7 @@
 - [Chaingpt](https://www.chaingpt.org/) - Advanced AI model that assists individuals and businesses working on Blockchain and cryptocurrency projects.
 - [Equibles](https://equibles.com) - Adds US stock data to ChatGPT, Claude and other AI assistants over MCP, covering SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings with links to the source documents; free plan available.
 - [PB-TABL](https://github.com/rezapaki1376/PB-TABL) - 🔓 This repository contains code for predicting market direction using data from the limit order book.
+- [QuickReceipt](https://greatwork.company/tools/quickreceipt) - Reads a receipt photo and extracts the vendor, date, line items and totals for CSV export. Paid, from $4.99.
 
 ## 📚 Free eBook Download
 - [Open Library](https://openlibrary.org) - Collection of free eBooks for borrowing and reading.
