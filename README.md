@@ -74,6 +74,7 @@
 - [Screenpipe](https://screenpipe.com) - Searches locally captured screen text and audio for meeting notes and work summaries.
 - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
+- [VoiceScribe](https://greatwork.company/tools/voicescribe) - Transcribes voice memos, interviews and meeting recordings in 99 languages (MP3, WAV, M4A, up to 50MB). Paid, from $4.99.
 - [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 ## 🔐 Cybersecurity and Hacking
