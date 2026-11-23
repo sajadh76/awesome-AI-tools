@@ -74,6 +74,7 @@
 - [Screenpipe](https://screenpipe.com) - Searches locally captured screen text and audio for meeting notes and work summaries.
 - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
+- [unbottled.ai](https://unbottled.ai) - Chats with 130 mainstream, open and uncensored models in one account, with the content filter chosen by the user, and also generates images, video, music and speech. Open source, free monthly credits, paid plans from $8/month.
 - [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 ## 🔐 Cybersecurity and Hacking
