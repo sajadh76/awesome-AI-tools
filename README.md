@@ -121,6 +121,7 @@
 - [AISO Tools](https://aisotools.com) - Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
+- [Frank AI Researcher](https://www.hifrank.ai) - Runs AI-moderated voice interviews with your own customers: create studies, run them, and read the transcripts. Free plan available.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
 - [Robot Speed](https://www.robot-speed.com) - Runs free SEO audits, schema validation and AI crawler visibility checks on any URL, on the web or through a hosted MCP server for AI assistants.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
