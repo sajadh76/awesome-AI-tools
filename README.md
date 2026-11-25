@@ -74,6 +74,7 @@
 - [Screenpipe](https://screenpipe.com) - Searches locally captured screen text and audio for meeting notes and work summaries.
 - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
 - [TLDR This](https://tldrthis.com) - Simplifies and summarizes lengthy articles or papers.
+- [Whizi](https://whizi.io/) - Puts ChatGPT, Claude, Gemini and other AI models in one chat, plus image, video and music generation, on web, iPhone and Android. Paid plans.
 - [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 ## 🔐 Cybersecurity and Hacking
