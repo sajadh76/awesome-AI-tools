@@ -140,6 +140,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - 🔓 The AI code editor for everyone.
 - [Google Antigravity](https://antigravity.google/) - AI-powered IDE from Google built around AI agents for software development.
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - 🔓 Native macOS control panel for the Android Emulator with a built-in MCP server, so AI coding agents can see and drive the emulator.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
