@@ -42,6 +42,7 @@
 - [Alpha OSINT Prospector](https://github.com/johnisanerd/alphaosint-prospector) - 🔓 Claude Code plugin for B2B prospecting that finds companies hiring for the roles you sell into, scores them 0-100 and names decision-makers. Paid Apify usage.
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted API discovery and execution for AI agents; account required, OAuth/API key, per-API pricing.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+- [NeverApply](https://neverapply.co) - AI job-search agent that matches jobs, tailors resumes, answers screening questions and auto-applies with your approval; also available as a hosted MCP server. Free plan available.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
