@@ -10,6 +10,8 @@
 
 <img src="assets/lock.svg" height="20" alt=""> = open-source project with public source code (marked 🔓 in the list).
 
+<img src="assets/shield.svg" height="20" alt=""> **All links are checked with [VirusTotal](https://www.virustotal.com/) for malware and phishing.**
+
 ## Contents
 
 - [🧠 Agentic AI](#-agentic-ai)
@@ -42,7 +44,6 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
-- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - 🔓 Routes one task to a specialist skill and returns one assignment or a genuine escalation. Free and MIT-licensed.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - [Zaru](https://myzaru.com) - Personal AI assistant for email, calendar and web research that shows each step as it works, waits for your approval before it sends a message or changes your calendar.
@@ -57,7 +58,6 @@
 - [OpenClaw](https://openclaw.ai/) - Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - 🔓 Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
-- [Xquik](https://xquik.com/en) - Developer-facing X automation platform with REST API, webhooks, and MCP support.
 
 ## 💼 Career
 - [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
@@ -79,7 +79,6 @@
 ## 🔐 Cybersecurity and Hacking
 - [PentestGPT](https://pentestgpt.ai/) - Provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly. Scan, exploit, and analyze web applications, networks, and cloud environments with ease and precision, without needing expert skills.
 - [STRIDE GPT](https://github.com/mrwadams/stride-gpt) - 🔓 An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-- [Threat Intel Bot](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot) - A specialized GPT for the latest APT threat intelligence.
 - [ZAMA](https://www.zama.ai/) - Build confidential applications on any blockchain.
 
 ## 💰 Finance
@@ -101,13 +100,11 @@
 ## 🌄 Image Generation and Enhancement
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one uploaded photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 - [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, clutter, glasses glare, text, numbers, and unwanted objects from photos.
-- [DALL·E 2](https://openai.com/index/dall-e-2/) - Create realistic images and art from a description in natural language.
 - [EmptyRoom AI](https://emptyroomai.com) - Virtual staging that furnishes vacant real estate listing photos in any style.
 - [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
-- [Seedream 5.5](https://seedream5-5.net/) - Generates images from text prompts and edits uploaded photos with written instructions, keeping characters consistent across a series; free credits available.
 - [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
 - [voxelyo](https://voxelyo.com) - AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
@@ -121,14 +118,11 @@
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational engine that solves math problems, provides data analysis, and more.
 
 ## 🧰 Other Tools
-- [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - [AISO Tools](https://aisotools.com) - Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
-- [NextReset](https://nextreset.ai/) - Free, independent Codex reset-history and AI-service status resource with source links and a browser-local personal timer.
 - [QuestionPunk](https://www.questionpunk.com/) - Runs surveys and AI-moderated voice and chat interviews that ask respondents follow-up questions, then builds response reports and cross-tabs.
-- [QuietTake](https://noiseremover.site/) - Free browser-local RNNoise speech-noise cleanup with playback comparison and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 - [Robot Speed](https://www.robot-speed.com) - Runs free SEO audits, schema validation and AI crawler visibility checks on any URL, on the web or through a hosted MCP server for AI assistants.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
 - [StudyArena](https://studyarena.com) - Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
@@ -142,19 +136,14 @@
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
-- [CoderPlan](https://coderplan.ai) - LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, and 100+ models. Optimized for Chinese developers.
 - [Codex](https://openai.com/codex/) - Build with agents. Codex accelerates real engineering work, from planning and building features to refactors, reviews, and releases.
 - [Cursor](https://www.cursor.com/) - Integrated advanced AI features directly into the coding environment.
-- [DeployReview](https://poe.com/DeployReview) - Free AI code-review bot that audits pull requests and deploy previews for security and quality issues.
-- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Free AI bot that explains code diffs in plain language for faster, clearer code reviews.
 - [GitHub Copilot](https://github.com/features/copilot) - 🔓 The AI code editor for everyone.
 - [Google Antigravity](https://antigravity.google/) - AI-powered IDE from Google built around AI agents for software development.
 - [Graphify](https://graphifylabs.ai/) - Turns your codebase, plus docs, papers, and meetings, into one queryable knowledge graph that self-updates on every change. On-device, no rebuilds.
-- [LLMAuditor](https://poe.com/LLMAuditor) - Free AI bot that audits LLM prompts, outputs, and evals for safety, bias, and reliability.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - 🔓 Browser-side AI coding toolbar for live web app edits with context capture and approval-gated diffs.
 - [Orbi](https://github.com/orbi-build/orbi) - 🔓 Turns GitHub Issues labeled `ai-ready` into reviewed, merged pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
-- [Tokens Forge](https://tokens-forge.com/) - Multi-model AI token platform with OpenAI-compatible API access to GPT, Claude, and Gemini, usage ledgers, starter RMB credit, and an AI trading research assistant.
 - [YYLO](https://github.com/yylo-dev/yylo) - 🔓 Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
 
 ## 🔬 Research and Citation
@@ -185,7 +174,6 @@
 
 ## 🎤 Voice Generation
 - [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
-- [DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech) - 🔓 DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
 - [ElevenLabs](https://elevenlabs.io/) - Create lifelike speech with our AI voice generator and voice agents platform. Access 5000+ voices in 70+ languages with secure APIs and SDKs.
 
 ## 📝 Writing
@@ -212,6 +200,51 @@ To suggest a tool or report a broken link, please [open an issue](https://github
 <p align="center">
   <b>❤️ Thanks to everyone who has helped build this list!</b>
 </p>
+<!-- contributors:start -->
 <p align="center">
-  <a href="https://github.com/sajadh76/awesome-AI-tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=sajadh76/awesome-AI-tools&max=100&columns=12" alt="Contributors"></a>
+  <a href="https://github.com/sajadh76" title="sajadh76"><img src="https://avatars.githubusercontent.com/u/40471014?v=4&s=128" width="64" height="64" alt="sajadh76"></a>
+  <a href="https://github.com/milad-goudarzi" title="milad-goudarzi"><img src="https://avatars.githubusercontent.com/u/20543988?v=4&s=128" width="64" height="64" alt="milad-goudarzi"></a>
+  <a href="https://github.com/Frank-Masciopinto" title="Frank-Masciopinto"><img src="https://avatars.githubusercontent.com/u/78543213?v=4&s=128" width="64" height="64" alt="Frank-Masciopinto"></a>
+  <a href="https://github.com/rezapaki1376" title="rezapaki1376"><img src="https://avatars.githubusercontent.com/u/47396944?v=4&s=128" width="64" height="64" alt="rezapaki1376"></a>
+  <a href="https://github.com/georgezouq" title="georgezouq"><img src="https://avatars.githubusercontent.com/u/5990860?v=4&s=128" width="64" height="64" alt="georgezouq"></a>
+  <a href="https://github.com/arseneHuot" title="arseneHuot"><img src="https://avatars.githubusercontent.com/u/24872405?v=4&s=128" width="64" height="64" alt="arseneHuot"></a>
+  <a href="https://github.com/uditgoenka" title="uditgoenka"><img src="https://avatars.githubusercontent.com/u/1478769?v=4&s=128" width="64" height="64" alt="uditgoenka"></a>
+  <a href="https://github.com/imshashank" title="imshashank"><img src="https://avatars.githubusercontent.com/u/778870?v=4&s=128" width="64" height="64" alt="imshashank"></a>
+  <a href="https://github.com/ununununium" title="ununununium"><img src="https://avatars.githubusercontent.com/u/43973612?v=4&s=128" width="64" height="64" alt="ununununium"></a>
+  <a href="https://github.com/Kayvan-Zahiri" title="Kayvan-Zahiri"><img src="https://avatars.githubusercontent.com/u/123409429?v=4&s=128" width="64" height="64" alt="Kayvan-Zahiri"></a>
+  <a href="https://github.com/linsheng9731" title="linsheng9731"><img src="https://avatars.githubusercontent.com/u/5237574?v=4&s=128" width="64" height="64" alt="linsheng9731"></a>
+  <a href="https://github.com/hydope" title="hydope"><img src="https://avatars.githubusercontent.com/u/279144930?v=4&s=128" width="64" height="64" alt="hydope"></a>
+  <br>
+  <a href="https://github.com/ljhskyso" title="ljhskyso"><img src="https://avatars.githubusercontent.com/u/8700661?v=4&s=128" width="64" height="64" alt="ljhskyso"></a>
+  <a href="https://github.com/mantoufan" title="mantoufan"><img src="https://avatars.githubusercontent.com/u/4961543?v=4&s=128" width="64" height="64" alt="mantoufan"></a>
+  <a href="https://github.com/manuvamp" title="manuvamp"><img src="https://avatars.githubusercontent.com/u/93111609?v=4&s=128" width="64" height="64" alt="manuvamp"></a>
+  <a href="https://github.com/ownland-maya" title="ownland-maya"><img src="https://avatars.githubusercontent.com/u/306834727?v=4&s=128" width="64" height="64" alt="ownland-maya"></a>
+  <a href="https://github.com/threezhang" title="threezhang"><img src="https://avatars.githubusercontent.com/u/4687155?v=4&s=128" width="64" height="64" alt="threezhang"></a>
+  <a href="https://github.com/Wanqing-Huang" title="Wanqing-Huang"><img src="https://avatars.githubusercontent.com/u/15683803?v=4&s=128" width="64" height="64" alt="Wanqing-Huang"></a>
+  <a href="https://github.com/xizhuomengcontin" title="xizhuomengcontin"><img src="https://avatars.githubusercontent.com/u/319346922?v=4&s=128" width="64" height="64" alt="xizhuomengcontin"></a>
+  <a href="https://github.com/antivirusakash" title="antivirusakash"><img src="https://avatars.githubusercontent.com/u/18576020?v=4&s=128" width="64" height="64" alt="antivirusakash"></a>
+  <a href="https://github.com/Andreexp" title="Andreexp"><img src="https://avatars.githubusercontent.com/u/159912985?v=4&s=128" width="64" height="64" alt="Andreexp"></a>
+  <a href="https://github.com/daniel3303" title="daniel3303"><img src="https://avatars.githubusercontent.com/u/36623265?v=4&s=128" width="64" height="64" alt="daniel3303"></a>
+  <a href="https://github.com/Eliottdupuy" title="Eliottdupuy"><img src="https://avatars.githubusercontent.com/u/29578362?v=4&s=128" width="64" height="64" alt="Eliottdupuy"></a>
+  <a href="https://github.com/estevecastells" title="estevecastells"><img src="https://avatars.githubusercontent.com/u/14035230?v=4&s=128" width="64" height="64" alt="estevecastells"></a>
+  <br>
+  <a href="https://github.com/cabbagehao" title="cabbagehao"><img src="https://avatars.githubusercontent.com/u/8425720?v=4&s=128" width="64" height="64" alt="cabbagehao"></a>
+  <a href="https://github.com/gralski" title="gralski"><img src="https://avatars.githubusercontent.com/u/95131627?v=4&s=128" width="64" height="64" alt="gralski"></a>
+  <a href="https://github.com/jangtrinh" title="jangtrinh"><img src="https://avatars.githubusercontent.com/u/6948894?v=4&s=128" width="64" height="64" alt="jangtrinh"></a>
+  <a href="https://github.com/johnisanerd" title="johnisanerd"><img src="https://avatars.githubusercontent.com/u/29712567?v=4&s=128" width="64" height="64" alt="johnisanerd"></a>
+  <a href="https://github.com/johnxie" title="johnxie"><img src="https://avatars.githubusercontent.com/u/792088?v=4&s=128" width="64" height="64" alt="johnxie"></a>
+  <a href="https://github.com/keisuke3602" title="keisuke3602"><img src="https://avatars.githubusercontent.com/u/50649985?v=4&s=128" width="64" height="64" alt="keisuke3602"></a>
+  <a href="https://github.com/dskuldeep" title="dskuldeep"><img src="https://avatars.githubusercontent.com/u/157639875?v=4&s=128" width="64" height="64" alt="dskuldeep"></a>
+  <a href="https://github.com/xqliu" title="xqliu"><img src="https://avatars.githubusercontent.com/u/22554?v=4&s=128" width="64" height="64" alt="xqliu"></a>
+  <a href="https://github.com/theluckystrike" title="theluckystrike"><img src="https://avatars.githubusercontent.com/u/51033404?v=4&s=128" width="64" height="64" alt="theluckystrike"></a>
+  <a href="https://github.com/nien-cheng" title="nien-cheng"><img src="https://avatars.githubusercontent.com/u/131891871?v=4&s=128" width="64" height="64" alt="nien-cheng"></a>
+  <a href="https://github.com/pranshuchittora" title="pranshuchittora"><img src="https://avatars.githubusercontent.com/u/32242596?v=4&s=128" width="64" height="64" alt="pranshuchittora"></a>
+  <a href="https://github.com/runshouse" title="runshouse"><img src="https://avatars.githubusercontent.com/u/23641679?v=4&s=128" width="64" height="64" alt="runshouse"></a>
+  <br>
+  <a href="https://github.com/shibley" title="shibley"><img src="https://avatars.githubusercontent.com/u/402991?v=4&s=128" width="64" height="64" alt="shibley"></a>
+  <a href="https://github.com/maamalama" title="maamalama"><img src="https://avatars.githubusercontent.com/u/38397684?v=4&s=128" width="64" height="64" alt="maamalama"></a>
+  <a href="https://github.com/Theaxiom" title="Theaxiom"><img src="https://avatars.githubusercontent.com/u/57013?v=4&s=128" width="64" height="64" alt="Theaxiom"></a>
+  <a href="https://github.com/wizgenerator" title="wizgenerator"><img src="https://avatars.githubusercontent.com/u/275525292?v=4&s=128" width="64" height="64" alt="wizgenerator"></a>
+  <a href="https://github.com/andsnw" title="andsnw"><img src="https://avatars.githubusercontent.com/u/20721160?v=4&s=128" width="64" height="64" alt="andsnw"></a>
 </p>
+<!-- contributors:end -->
