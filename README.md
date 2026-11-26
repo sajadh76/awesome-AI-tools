@@ -119,6 +119,7 @@
 
 ## 🧰 Other Tools
 - [AISO Tools](https://aisotools.com) - Checks whether ChatGPT, Perplexity and other AI assistants actually recommend a given product, and reports the gaps that keep it from being cited.
+- [Apidly Cloud](https://apidly.com) - GPU servers billed per second from prepaid credit, with one-click ComfyUI, vLLM, Ollama and Jupyter templates, serverless GPU endpoints, a REST API and an MCP server.
 - [BlynkAI Telo](https://blynkai.app/telo/) - An AI wellness companion for iPhone that uses Apple Health context and user-logged events to help people reflect on readiness, recovery, sleep, and daily body-state trends.
 - [Flux](https://www.flux.ai/p) - An AI-powered EDA tool featuring a Copilot that reviews designs, interprets datasheets, and can even route your board.
 - [LLM Pulse](https://llmpulse.ai/) - Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines.
