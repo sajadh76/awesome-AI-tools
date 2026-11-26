@@ -60,6 +60,7 @@
 - [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
 
 ## 💼 Career
+- [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit.
 - [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor.
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
