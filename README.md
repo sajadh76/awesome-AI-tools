@@ -106,6 +106,7 @@
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
 - [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
+- [TattooTryOn](https://tattootryon.app/) - A tattoo simulator that works on your photo, not a model. Pick from 340 designs in 10 styles or upload your own sketch; free credits every month.
 - [voxelyo](https://voxelyo.com) - AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
 ## 📷 Image Processing and Computer Vision
