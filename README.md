@@ -64,6 +64,7 @@
 
 ## 🤖 ChatBot, Summarization, and Note-Taking
 - [DeepSeek](https://www.deepseek.com/) - Rivals leading systems like OpenAI's ChatGPT, achieving comparable performance with significantly lower costs and resource consumption.
+- [EasyTranscriber](https://www.easytranscriber.com/) - Retrieves YouTube transcripts and generates AI summaries, with REST API and MCP access; free account credits and paid plans available.
 - [Evernote](https://evernote.com) - Organizes notes, tasks, and supports clipping from websites.
 - [Gemini](https://gemini.google.com/) - Google's multimodal AI assistant for chat, writing, research, coding, and image understanding.
 - [Glasp](https://glasp.co/) - Highlights web pages and PDFs, shows YouTube transcripts with AI summaries, and exports notes to Markdown, Notion, and Obsidian. Free plan available.
