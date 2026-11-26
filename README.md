@@ -114,6 +114,7 @@
 
 ## 🧮 Mathematics and Calculations
 - [Cymath](https://www.cymath.com) - Solves math problems step-by-step.
+- [Mydentify AI Model Cost Calculator](https://mydentify.com/tools/ai-model-cost-calculator) - A free calculator that compares AI API costs using request volume, token sizes, and prompt caching assumptions.
 - [Symbolab](https://www.symbolab.com) - Advanced tool for algebra, calculus, and other math subjects.
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational engine that solves math problems, provides data analysis, and more.
 
