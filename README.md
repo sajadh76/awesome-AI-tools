@@ -125,6 +125,7 @@
 - [Robot Speed](https://www.robot-speed.com) - Runs free SEO audits, schema validation and AI crawler visibility checks on any URL, on the web or through a hosted MCP server for AI assistants.
 - [Stability AI](https://stability.ai/) - Diffusion models for Image, Video, Speech, 3D, and Language.
 - [StudyArena](https://studyarena.com) - Helps students compare three anonymous AI answers, vote for the most useful response, and reveal the models afterward.
+- [VocalSeparator](https://vocalseparator.com/) - Separates uploaded audio into vocals or four stems, exports WAV tracks, and provides loop, tempo and pitch controls for practice; limited anonymous free tier available.
 
 ## 🎨 Presentation and Design
 - [Beautiful.ai](https://www.beautiful.ai) - AI for automated slide design in presentations.
