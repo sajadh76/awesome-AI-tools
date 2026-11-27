@@ -106,6 +106,7 @@
 - [Midjourney](https://www.midjourney.com/home) - A text-to-image AI where your imagination is the only limit.
 - [Raphael AI](https://raphael.app) - AI design studio for product photos, ad creatives, and brand visuals.
 - [Stunna](https://stunna-app.com/) - AI photo editor for iPhone and Android with camera-inspired looks and lighting edits; free download with optional paid Pro.
+- [TinyMast](https://tinymast.com/image-upscale/) - Upscales images 2x or 4x with AI and compresses JPG, PNG, WebP and GIF files to a target KB size, one file at a time or up to 100 per batch.
 - [voxelyo](https://voxelyo.com) - AI photo enhancer for Airbnb, Vrbo, and real estate listing photos, with sky replacement and twilight conversion on a flat-rate unlimited subscription.
 
 ## 📷 Image Processing and Computer Vision
