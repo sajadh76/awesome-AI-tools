@@ -146,6 +146,7 @@
 - [YYLO](https://github.com/yylo-dev/yylo) - 🔓 Open-source command-line orchestrator for coding agents, with repeatable workflows and receipt-backed repository changes.
 
 ## 🔬 Research and Citation
+- [AshuTeacher](https://ashuteacher.vercel.app) - Interactive AI Voice Blackboard, 195-country syllabus academy, exam paper solver, and 6-milestone Project, Thesis & Research Studio with live AI Viva Defense.
 - [ANSWERTHIS](https://answerthis.io/) - Find research gaps, request summaries of papers, receive paragraph-by-paragraph citations and access relevant sources.
 - [autoresearch](https://github.com/karpathy/autoresearch) - 🔓 AI agents running research on single-GPU nanochat training automatically.
 - [Connected Papers](https://www.connectedpapers.com) - Helps visualize connections between academic papers.
