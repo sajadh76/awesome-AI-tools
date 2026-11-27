@@ -44,6 +44,7 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 🔓 A powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - 🔓 Records the traffic between an AI agent and its model provider, then replays it without calling the provider to reproduce a run.
 - [SandBase](https://sandbase.ai/) - Open-source CLI and local MCP bridge for discovering and running 2,000+ AI models through one API.
+- [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes where AI coding agents run code, reachable over a remote MCP server, with per-tool policies and an audit log; free plan available.
 - [Tale](https://tale.dev/) - Open-source project workspace where teams delegate tasks to AI agents in persistent sandboxes and review their reports and deliverables together.
 - [Taskade](https://taskade.com) - AI-native workspace platform to build apps, deploy autonomous AI agents, and automate workflows with 100+ integrations - from one prompt.
 - [Zaru](https://myzaru.com) - Personal AI assistant for email, calendar and web research that shows each step as it works, waits for your approval before it sends a message or changes your calendar.
