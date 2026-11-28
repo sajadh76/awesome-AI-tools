@@ -132,6 +132,7 @@
 - [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Desktop interface design app whose built-in MCP server lets Claude Code, Codex or Gemini CLI read and edit .fig designs. Free.
 - [Gamma](https://gamma.app) - AI-powered tool to create presentations quickly.
 - [Kamply](https://kamplyapp.com) - Builds social posts, carousels, video reels, ads and decks in your branding, using a marketing crew inside a Mac desktop app. Paid, and it runs on your own Claude Code or Codex plan.
+- [AI Renovation](https://airenovation.io/) - Web and iOS AI home remodeling, exterior design, and MLS-safe virtual staging studio from one room photo in ~25 seconds (Freemium: 3 free previews, $9/$24 one-time passes, or $39/mo Pro).
 
 ## 💻 Programming
 - [Agent QA](https://github.com/vostride/agent-qa) - 🔓 Self-improving QA agent for natural-language web and mobile tests, with a CLI, dashboard, MCP server, persistent execution memory, and UI-change adaptation.
